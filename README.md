@@ -9,7 +9,7 @@ StarWars characters open-source REST API
 ### [routes](#routes-1)
 
 - [`/all.json`](https://melroune.github.io/starwars-api/api/all.json)
-- [`/id`](https://melroune.github.io/starwars-api/api/1.json)
+- [`/id`](https://melroune.github.io/starwars-api/api/id/1.json)
 
 ---
 
