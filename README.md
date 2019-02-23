@@ -25,7 +25,7 @@ eg. [`/all.json`](https://melroune.github.io/starwars-api/api/all.json)
 
 GET character complete informations by id
 
-eg. [`/id/1.json`](https://melroune.github.io/starwars-api/api/1.json)
+eg. [`/id/1.json`](https://melroune.github.io/starwars-api/api/id/1.json)
 
 ```json
 {
