@@ -4,16 +4,12 @@ StarWars characters open-source REST API
 
 ### base url
 
-``
-
-or cached CDN (faster)
-
-``
+`https://melroune.github.io/starwars-api/api`
 
 ### [routes](#routes-1)
 
-- [`/all.json`](#alljson)
-- [`/id`](#id)
+- [`/all.json`](https://melroune.github.io/starwars-api/api/all.json)
+- [`/id`](https://melroune.github.io/starwars-api/api/id/1.json)
 
 ---
 
@@ -23,13 +19,13 @@ or cached CDN (faster)
 
 GET all characters as a single JSON object
 
-eg. [`/all.json`]()
+eg. [`/all.json`](https://melroune.github.io/starwars-api/api/all.json)
 
 ##### `/id`
 
 GET character complete informations by id
 
-eg. [`/id/1.json`]()
+eg. [`/id/1.json`](https://melroune.github.io/starwars-api/api/id/1.json)
 
 ```json
 {
