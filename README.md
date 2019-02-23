@@ -4,7 +4,7 @@ StarWars characters open-source REST API
 
 ### base url
 
-`https://akabab.github.io/starwars-api/api`
+`https://melroune.github.io/starwars-api/api`
 
 ### [routes](#routes-1)
 
