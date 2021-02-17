@@ -8,8 +8,8 @@ StarWars characters open-source REST API
 
 ### [routes](#routes-1)
 
-- [`/all.json`](https://melroune.github.io/starwars-api/api/all.json)
-- [`/id`](https://melroune.github.io/starwars-api/api/id/1.json)
+- [`/all.json`](https://miadil.github.io/starwars-api/api/all.json)
+- [`/id`](https://miadil.github.io/starwars-api/api/id/1.json)
 
 ---
 
@@ -19,13 +19,13 @@ StarWars characters open-source REST API
 
 GET all characters as a single JSON object
 
-eg. [`/all.json`](https://melroune.github.io/starwars-api/api/all.json)
+eg. [`/all.json`](https://miadil.github.io/starwars-api/api/all.json)
 
 ##### `/id`
 
 GET character complete informations by id
 
-eg. [`/id/1.json`](https://melroune.github.io/starwars-api/api/id/1.json)
+eg. [`/id/1.json`](https://miadil.github.io/starwars-api/api/id/1.json)
 
 ```json
 {
