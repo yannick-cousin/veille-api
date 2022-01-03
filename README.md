@@ -1,4 +1,4 @@
-# starwars-api
+# veille-api
 
 Veille  open-source REST API
 
