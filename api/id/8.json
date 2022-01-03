@@ -1,22 +1,10 @@
 {
   "id": 8,
-  "name": "R5-D4",
-  "height": 0.97,
-  "mass": 32,
-  "gender": "male",
-  "homeworld": "tatooine",
-  "species": "droid",
-  "wiki": "http://starwars.wikia.com/wiki/R5-D4",
-  "image": "https://vignette.wikia.nocookie.net/starwars/images/c/cb/R5-D4_Sideshow.png",
-  "manufacturer": "Industrial Automaton",
-  "model": "R5 unit",
-  "class": "Astromech droid",
-  "sensorColor": "red",
-  "platingColor": "white, red, blue",
-  "affiliations": [
-    "Alliance to Restore the Republic"
-  ],
-  "skinColor": "white, red",
-  "eyeColor": "red",
-  "formerAffiliations": []
+  "week": "46",
+  "year": "2021",
+  "member": "Milhan",
+  "url": "https://www.begeek.fr/le-navigateur-web-brave-soffre-son-propre-wallet-pour-les-crypto-362820?utm_source=feed&utm_campaign=general",
+  "categorie": "d",
+  "description": "Le navigateur web Brave s’offre son propre wallet pour les crypto",
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png"
 }

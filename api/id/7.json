@@ -1,19 +1,10 @@
 {
   "id": 7,
-  "name": "Beru Whitesun lars",
-  "height": 1.65,
-  "mass": 75,
-  "gender": "female",
-  "homeworld": "tatooine",
-  "wiki": "http://starwars.wikia.com/wiki/Beru_Whitesun_Lars",
-  "image": "https://vignette.wikia.nocookie.net/starwars/images/c/cc/BeruCardTrader.png",
-  "died": 0,
-  "diedLocation": "tatooine",
-  "species": "human",
-  "hairColor": "brown",
-  "eyeColor": "blue",
-  "skinColor": "light",
-  "born": -47,
-  "affiliations": [],
-  "formerAffiliations": []
+  "week": "46",
+  "year": "2021",
+  "member": "Thomas",
+  "url": "https://www.20minutes.fr/high-tech/3175267-20211118-apple-utilisateurs-iphone-vont-pouvoir-reparer-memes-smartphone",
+  "categorie": "d",
+  "description": "Apple : Les utilisateurs d’iPhone vont pouvoir réparer eux-mêmes leur smartphone (20minutes.fr)",
+  "avatar": "https://github.com/MunschThomas.png?size=300"
 }
