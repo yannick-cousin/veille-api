@@ -1,9 +1,10 @@
 {
   "id": 1,
-  "week": "46",
-  "year": "2021",
+  "week": 46,
+  "year": 2021,
   "member": "Vlad",
   "url": "https://www.phonandroid.com/google-maps-decouvrez-les-quatre-nouvelles-fonctionnalites-qui-vont-vous-faciliter-la-vie.html",
   "description": "Pegasus : la France aussi aurait tenté d’acheter le logiciel espion",
-  "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300"
+  "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
+  "favorite": 10
 }

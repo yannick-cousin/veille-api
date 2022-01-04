@@ -1,9 +1,10 @@
 {
-  "id": "99",
-  "week": "50",
-  "year": "2021",
-  "member": "Léo",
-  "url": "https://tailwindcss.com/blog/tailwindcss-v3",
-  "description": "Tailwind CSS v3.0",
-  "avatar": "https://github.com/leopinchon.png?size=300"
+  "id": 99,
+  "week": 50,
+  "year": 2021,
+  "member": "Julien",
+  "url": "https://www.clubic.com/pro/entreprises/microsoft/dossier-397605-d-internet-explorer-a-edge-microsoft-et-la-strategie-anticoncurrentielle.html",
+  "description": "D'Internet Explorer à Edge : pourquoi Microsoft force toujours pour que vous utilisiez son navigateur ?",
+  "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
+  "favorite": 1
 }

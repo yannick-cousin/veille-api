@@ -1,9 +1,10 @@
 {
   "id": 2,
-  "week": "46",
-  "year": "2021",
+  "week": 46,
+  "year": 2021,
   "member": "Yorgan",
   "url": "https://www.instagram.com/frenchcoder/?hl=fr",
-  "description": "French | Développement Web (@frenchcoder) • Photos et vidéos Instagram",
-  "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300"
+  "description": "French | Développement Web (@frenchcoder) • Photos et vidéos Instagram",
+  "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
+  "favorite": 1
 }

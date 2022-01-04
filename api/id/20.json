@@ -1,9 +1,10 @@
 {
   "id": 20,
-  "week": "46",
-  "year": "2021",
+  "week": 46,
+  "year": 2021,
   "member": "Abdou",
   "url": "https://daily.dev/",
   "description": "daily.dev | The Homepage Every Developer Deserves",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png"
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
+  "favorite": 2
 }

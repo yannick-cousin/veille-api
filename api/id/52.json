@@ -1,9 +1,10 @@
 {
-  "id": "52",
-  "week": "48",
-  "year": "2021",
-  "member": "Romain",
-  "url": "https://korben.info/facebook-delete.html",
-  "description": "Un outil pour supprimer rapidement le contenu Facebook que vous n’assumez pas",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png"
+  "id": 52,
+  "week": 48,
+  "year": 2021,
+  "member": "Jean-François",
+  "url": "https://www.electronjs.org/",
+  "description": "Développez des applications desktop multi-plateformes avec JavaScript, HTML et CSS",
+  "avatar": "https://github.com/GratadeJF.png?size=300",
+  "favorite": 18
 }

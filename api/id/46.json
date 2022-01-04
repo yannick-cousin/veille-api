@@ -1,10 +1,10 @@
 {
-  "id": "46",
-  "week": "48",
-  "year": "2021",
+  "id": 46,
+  "week": 48,
+  "year": 2021,
   "member": "Clara",
   "url": "https://jimmylollipop.com/8-ui-ux-tips-about-password-design/",
-  "description": "",
+  "description": "8 UI/UX tips about password design",
   "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-  "favorite": "5"
+  "favorite": 5
 }

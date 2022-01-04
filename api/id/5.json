@@ -1,9 +1,10 @@
 {
   "id": 5,
-  "week": "46",
-  "year": "2021",
+  "week": 46,
+  "year": 2021,
   "member": "Dorian",
   "url": "https://www.twitch.tv/bastiui",
   "description": "Bastiui - Twitch",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png"
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
+  "favorite": 4
 }

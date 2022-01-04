@@ -1,9 +1,10 @@
 {
   "id": 18,
-  "week": "46",
-  "year": "2021",
+  "week": 46,
+  "year": 2021,
   "member": "Déo",
   "url": "https://www.futura-sciences.com/tech/actualites/technologie-ecran-lentille-contact-vision-futur-arrive-93155/",
   "description": "Un écran dans une lentille de contact ? La vision du futur arrive !",
-  "avatar": "https://github.com/KodackMack.png?size=300"
+  "avatar": "https://github.com/KodackMack.png?size=300",
+  "favorite": 7
 }

@@ -1,9 +1,10 @@
 {
   "id": 8,
-  "week": "46",
-  "year": "2021",
+  "week": 46,
+  "year": 2021,
   "member": "Milhan",
   "url": "https://www.begeek.fr/le-navigateur-web-brave-soffre-son-propre-wallet-pour-les-crypto-362820?utm_source=feed&utm_campaign=general",
   "description": "Le navigateur web Brave s’offre son propre wallet pour les crypto",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png"
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
+  "favorite": 8
 }

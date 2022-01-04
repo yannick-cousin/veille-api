@@ -1,9 +1,10 @@
 {
   "id": 9,
-  "week": "46",
-  "year": "2021",
+  "week": 46,
+  "year": 2021,
   "member": "Romain",
   "url": "https://blog.eleven-labs.com/fr/que-faire-en-cas-de-fuite-de-donnees/",
   "description": "Que faire en cas de fuite de données ?",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png"
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
+  "favorite": 3
 }

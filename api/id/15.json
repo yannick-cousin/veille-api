@@ -1,9 +1,10 @@
 {
   "id": 15,
-  "week": "46",
-  "year": "2021",
+  "week": 46,
+  "year": 2021,
   "member": "Mickaël",
   "url": "https://haveibeenpwned.com/",
-  "description": "';--have i been pwned?",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/9axzF2WJPEBSt0fafpSY8QTqf0gLbEZq.jpg"
+  "description": "Have I been pwned?",
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/9axzF2WJPEBSt0fafpSY8QTqf0gLbEZq.jpg",
+  "favorite": 8
 }

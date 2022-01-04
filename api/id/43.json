@@ -1,10 +1,10 @@
 {
-  "id": "43",
-  "week": "48",
-  "year": "2021",
+  "id": 43,
+  "week": 48,
+  "year": 2021,
   "member": "Anouchka",
   "url": "https://www.docstring.fr/",
-  "description": "",
+  "description": "Docstring",
   "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-  "favorite": "5"
+  "favorite": 5
 }
