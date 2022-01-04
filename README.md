@@ -25,7 +25,7 @@ eg. [`/all.json`](https://yannick-cousin.github.io/veille-api/api/all.json)
 
 GET article complete informations by id
 
-eg. [`/id/1.json`](https://yannick-cousin.github.io/veille-api/api/id/1.json)
+eg. [`/id/0.json`](https://yannick-cousin.github.io/veille-api/api/id/1.json)
 
 ```json
 {
