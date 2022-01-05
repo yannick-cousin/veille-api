@@ -1138,5 +1138,15 @@
     "description": "Un scientifique invente un écran à lécher pour percevoir les goûts de ce que vous regardez",
     "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
     "favorite": 35
+  },
+  {
+    "id": 114,
+    "week": 1,
+    "year": 2022,
+    "member": "Yannick",
+    "url": "https://www.journaldugeek.com/2022/01/05/sur-tiktok-une-star-de-tele-realite-vend-ses-pets-en-nft/",
+    "description": "Sur TikTok, une star de télé-réalité vend ses pets en NFT ",
+    "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
+    "favorite": 200
   }
 ]
