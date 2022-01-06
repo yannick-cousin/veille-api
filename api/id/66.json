@@ -6,5 +6,9 @@
   "url": "https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/",
   "description": "A Complete Guide to Dark Mode on the Web",
   "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
-  "favorite": 1
+  "favorite": 1,
+  "tags": [
+    "dark mode",
+    "css"
+  ]
 }

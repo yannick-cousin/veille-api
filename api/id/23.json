@@ -6,5 +6,9 @@
   "url": "https://javascript.plainenglish.io/10-best-websites-for-practising-and-perfecting-front-end-development-56e382b2c0ac",
   "description": "10 Best Websites for Practising and Perfecting Front-End Development",
   "avatar": "https://github.com/mariem31.png?size=300",
-  "favorite": 9
+  "favorite": 9,
+  "tags": [
+    "front-end",
+    "javascript"
+  ]
 }

@@ -4,7 +4,12 @@
   "year": 2022,
   "member": "Yannick",
   "url": "https://www.journaldugeek.com/2022/01/05/sur-tiktok-une-star-de-tele-realite-vend-ses-pets-en-nft/",
-  "description": "Sur TikTok, une star de télé-réalité vend ses pets en NFT ",
-  "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-  "favorite": 200
+  "description": "Sur TikTok, une star de télé-réalité vend ses pets en NFT",
+  "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
+  "favorite": 200,
+  "tags": [
+    "tiktok",
+    "nft",
+    "actualité"
+  ]
 }

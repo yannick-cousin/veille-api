@@ -6,5 +6,12 @@
   "url": "https://www.electronjs.org/",
   "description": "Développez des applications desktop multi-plateformes avec JavaScript, HTML et CSS",
   "avatar": "https://github.com/GratadeJF.png?size=300",
-  "favorite": 18
+  "favorite": 18,
+  "tags": [
+    "javascript",
+    "html",
+    "css",
+    "methode",
+    "outil"
+  ]
 }

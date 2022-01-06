@@ -6,5 +6,8 @@
   "url": "https://www.youtube.com/c/grafikart/videos",
   "description": "Grafikart.fr - YouTube",
   "avatar": "https://github.com/leopinchon.png?size=300",
-  "favorite": 6
+  "favorite": 6,
+  "tags": [
+    "youtube"
+  ]
 }

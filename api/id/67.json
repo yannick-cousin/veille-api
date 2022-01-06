@@ -6,5 +6,10 @@
   "url": "https://excel.developpez.com/actu/328546/Microsoft-apporte-JavaScript-a-Excel-par-l-intermediaire-d-une-nouvelle-API-pour-permettre-aux-developpeurs-de-creer-des-types-de-donnees-personnalises-dans-Excel/",
   "description": "Microsoft apporte JavaScript à Excel par l'intermédiaire d'une nouvelle API",
   "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
-  "favorite": 7
+  "favorite": 7,
+  "tags": [
+    "javascript",
+    "excel",
+    "api"
+  ]
 }

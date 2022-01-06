@@ -6,5 +6,8 @@
   "url": "https://www.usine-digitale.fr/article/avec-monfranceconnect-vous-pouvez-desormais-acceder-aux-donnees-que-les-administrations-ont-sur-vous.N1165037",
   "description": "Avec MonFranceConnect, vous pouvez désormais accéder aux données que les administrations ont sur vous",
   "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
-  "favorite": 4
+  "favorite": 4,
+  "tags": [
+    "monfranceconnect"
+  ]
 }

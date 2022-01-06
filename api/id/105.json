@@ -6,5 +6,8 @@
   "url": "https://theuselessweb.com/",
   "description": "TAKE ME TO A USELESS WEBSITE",
   "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
-  "favorite": 0
+  "favorite": 0,
+  "tags": [
+    "useless"
+  ]
 }

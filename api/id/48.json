@@ -6,5 +6,8 @@
   "url": "https://www.francebleu.fr/infos/transports/un-limiteur-de-vitesse-intelligent-sur-toutes-les-voitures-neuves-a-partir-du-1er-juillet-2022-1637732451",
   "description": "Un régulateur de vitesse intelligent obligatoire sur toutes les voitures neuves à partir de juillet prochain",
   "avatar": "https://github.com/MunschThomas.png?size=300",
-  "favorite": 15
+  "favorite": 15,
+  "tags": [
+    "actualité"
+  ]
 }

@@ -4,7 +4,11 @@
   "year": 2021,
   "member": "Yannick",
   "url": "https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
-  "description": "The Age of A.I. - Youtube",
+  "description": "The Age of A.I.",
   "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-  "favorite": 25
+  "favorite": 25,
+  "tags": [
+    "youtube",
+    "ia"
+  ]
 }

@@ -6,5 +6,10 @@
   "url": "https://www.journaldugeek.com/2021/12/16/jouer-a-sonic-dans-sa-tesla-cest-desormais-possible/",
   "description": "Jouer à Sonic dans sa Tesla, c’est désormais possible",
   "avatar": "https://github.com/Benedct-Laurain.png?size=300",
-  "favorite": 16
+  "favorite": 16,
+  "tags": [
+    "gaming",
+    "tesla",
+    "sonic"
+  ]
 }

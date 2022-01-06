@@ -6,5 +6,10 @@
   "url": "https://www.youtube.com/watch?v=nNpvWBuTfrc",
   "description": "The Matrix Resurrections – Official Trailer 2",
   "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
-  "favorite": 8
+  "favorite": 8,
+  "tags": [
+    "film",
+    "matrix",
+    "youtube"
+  ]
 }

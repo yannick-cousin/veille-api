@@ -6,5 +6,10 @@
   "url": "https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi/related",
   "description": "Chrome Web Store : Return YouTube Dislike",
   "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-  "favorite": 25
+  "favorite": 25,
+  "tags": [
+    "google",
+    "chrome",
+    "youtube"
+  ]
 }

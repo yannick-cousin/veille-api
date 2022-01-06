@@ -6,5 +6,9 @@
   "url": "https://react-hook-form.com/",
   "description": "React Hook Form - Simple React forms validation",
   "avatar": "https://github.com/MunschThomas.png?size=300",
-  "favorite": 2
+  "favorite": 2,
+  "tags": [
+    "react",
+    "hook"
+  ]
 }

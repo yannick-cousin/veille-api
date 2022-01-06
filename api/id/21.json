@@ -6,5 +6,9 @@
   "url": "https://www.fun-mooc.fr/fr/",
   "description": "Se former en liberté",
   "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-  "favorite": 1
+  "favorite": 1,
+  "tags": [
+    "formation",
+    "mooc"
+  ]
 }

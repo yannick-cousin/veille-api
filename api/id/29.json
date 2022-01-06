@@ -6,5 +6,9 @@
   "url": "https://gyazo.com/",
   "description": "Save & Share screen captures instantly.",
   "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
-  "favorite": 6
+  "favorite": 6,
+  "tags": [
+    "outils",
+    "gyazo"
+  ]
 }

@@ -6,5 +6,9 @@
   "url": "https://argent-nouvelles.info/minecraft-propose-des-cours-gratuits-aux-enfants/",
   "description": "Minecraft propose des cours gratuits aux enfants",
   "avatar": "https://storage.googleapis.com/quest_editor_uploads/9axzF2WJPEBSt0fafpSY8QTqf0gLbEZq.jpg",
-  "favorite": 7
+  "favorite": 7,
+  "tags": [
+    "gaming",
+    "minecraft"
+  ]
 }

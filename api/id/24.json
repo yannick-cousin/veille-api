@@ -6,5 +6,9 @@
   "url": "https://mastery.games/build/zelda/",
   "description": "Zelda: Breath of the Wild with CSS",
   "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-  "favorite": 2
+  "favorite": 2,
+  "tags": [
+    "css",
+    "gaming"
+  ]
 }

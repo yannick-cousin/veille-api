@@ -6,5 +6,9 @@
   "url": "www.dealabs.com",
   "description": "Tous les deals - dealabs.com",
   "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
-  "favorite": 89
+  "favorite": 89,
+  "tags": [
+    "dealabs",
+    "bon plan"
+  ]
 }

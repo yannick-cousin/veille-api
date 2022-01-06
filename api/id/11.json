@@ -6,5 +6,8 @@
   "url": "https://www.youtube.com/c/codeurpro",
   "description": "codeur-pro - YouTube",
   "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
-  "favorite": 5
+  "favorite": 5,
+  "tags": [
+    "youtube"
+  ]
 }

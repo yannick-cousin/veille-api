@@ -6,5 +6,10 @@
   "url": "https://www.lemondeinformatique.fr/actualites/lire-premieres-impressions-sur-la-preversion-de-github-copilot-84756.html",
   "description": "Premières impressions sur la préversion de GitHub Copilot",
   "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
-  "favorite": 7
+  "favorite": 7,
+  "tags": [
+    "github",
+    "copilot",
+    "outil"
+  ]
 }

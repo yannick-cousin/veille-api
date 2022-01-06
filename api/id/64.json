@@ -6,5 +6,9 @@
   "url": "https://www.clubic.com/pro/entreprises/nvidia/actualite-397674-la-geforce-rtx-2060-12-go-pourrait-elle-detourner-les-mineurs-des-autres-cartes-graphiques.html",
   "description": "La GeForce RTX 2060 12 Go pourrait-elle détourner les mineurs des autres cartes graphiques ?",
   "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-  "favorite": 24
+  "favorite": 24,
+  "tags": [
+    "cryptomonnaie",
+    "carte graphique"
+  ]
 }

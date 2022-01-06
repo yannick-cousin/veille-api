@@ -6,5 +6,10 @@
   "url": "https://www.docstring.fr/",
   "description": "Docstring",
   "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-  "favorite": 5
+  "favorite": 5,
+  "tags": [
+    "formation",
+    "python",
+    "docstring"
+  ]
 }

@@ -6,5 +6,9 @@
   "url": "https://www.numerama.com/tech/786817-twitter-assume-navoir-quasiment-pas-de-moderateurs-humains.html",
   "description": "Twitter assume n’avoir quasiment pas de modérateurs humains",
   "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-  "favorite": 75
+  "favorite": 75,
+  "tags": [
+    "twitter",
+    "moderateur"
+  ]
 }

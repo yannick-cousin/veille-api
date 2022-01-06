@@ -1,23 +1,25 @@
 ﻿[
   {
-  	"id": 0,
+    "id": 0,
     "week": 46,
     "year": 2021,
     "member": "Anouchka",
     "url": "https://www.blogdumoderateur.com/classement-langages-populaires-php-sortir-top-10/",
     "description": "Classement des langages populaires : PHP pourrait sortir du top 10, une première en 20 ans",
     "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-    "favorite": 2
-	},
+    "favorite": 2,
+    "tags": ["langages"]
+  },
   {
-  	"id": 1,
+    "id": 1,
     "week": 46,
     "year": 2021,
     "member": "Vlad",
     "url": "https://www.phonandroid.com/google-maps-decouvrez-les-quatre-nouvelles-fonctionnalites-qui-vont-vous-faciliter-la-vie.html",
-    "description": "Pegasus : la France aussi aurait tenté d’acheter le logiciel espion",
+    "description": "Google Maps : découvrez les quatre nouvelles fonctionnalités qui vont vous faciliter la vie",
     "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-    "favorite": 10
+    "favorite": 10,
+    "tags": ["actualité"]
   },
   {
     "id": 2,
@@ -27,18 +29,20 @@
     "url": "https://www.instagram.com/frenchcoder/?hl=fr",
     "description": "French | Développement Web (@frenchcoder) • Photos et vidéos Instagram",
     "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-    "favorite": 1
+    "favorite": 1,
+    "tags": ["instagram", "js", "nocode"]
   },
   {
-  	"id": 3,
-  	"week": 46,
-  	"year": 2021,
-  	"member": "Mariem",
-  	"url": "https://www.journaldugeek.com/2021/11/05/tencent-presente-a-son-tour-ses-premieres-puces-informatiques/",
-  	"description": "Tencent présente à son tour ses premières puces informatiques",
-  	"avatar": "https://github.com/mariem31.png?size=300",
-  	"favorite": 0
-	},
+    "id": 3,
+    "week": 46,
+    "year": 2021,
+    "member": "Mariem",
+    "url": "https://www.journaldugeek.com/2021/11/05/tencent-presente-a-son-tour-ses-premieres-puces-informatiques/",
+    "description": "Tencent présente à son tour ses premières puces informatiques",
+    "avatar": "https://github.com/mariem31.png?size=300",
+    "favorite": 0,
+    "tags": ["hardware"]
+  },
   {
     "id": 4,
     "week": 46,
@@ -47,7 +51,8 @@
     "url": "https://open.spotify.com/episode/02kCcYFl80BacEHAq17g8c?si=81b1426709294f4c",
     "description": "L'homme qui avait la formule mathématique des bonnes histoires - Le code a changé | Podcast sur Spotify",
     "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-    "favorite": 2
+    "favorite": 2,
+    "tags": ["spotify", "podcast"]
   },
   {
     "id": 5,
@@ -57,7 +62,8 @@
     "url": "https://www.twitch.tv/bastiui",
     "description": "Bastiui - Twitch",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
-    "favorite": 4
+    "favorite": 4,
+    "tags": ["twitch", "ux", "ui", "webdesign"]
   },
   {
     "id": 6,
@@ -67,7 +73,8 @@
     "url": "https://blog.link-value.fr/javascript-retours-experience-developpeurs-web-c0fadda8c273",
     "description": "JavaScript : Retours d’expérience de développeurs web sur ce langage populaire",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
-    "favorite": 5
+    "favorite": 5,
+    "tags": ["javascript"]
   },
   {
     "id": 7,
@@ -77,17 +84,19 @@
     "url": "https://www.20minutes.fr/high-tech/3175267-20211118-apple-utilisateurs-iphone-vont-pouvoir-reparer-memes-smartphone",
     "description": "Apple : Les utilisateurs d’iPhone vont pouvoir réparer eux-mêmes leur smartphone (20minutes.fr)",
     "avatar": "https://github.com/MunschThomas.png?size=300",
-    "favorite": 5
+    "favorite": 5,
+    "tags": ["apple"]
   },
   {
-    "id": 8,
-    "week": 46,
-    "year": 2021,
-    "member": "Milhan",
-    "url": "https://www.begeek.fr/le-navigateur-web-brave-soffre-son-propre-wallet-pour-les-crypto-362820?utm_source=feed&utm_campaign=general",
-    "description": "Le navigateur web Brave s’offre son propre wallet pour les crypto",
-    "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
-    "favorite": 8
+   "id": 8,
+   "week": 46,
+   "year": 2021,
+   "member": "Milhan",
+   "url": "https://www.begeek.fr/le-navigateur-web-brave-soffre-son-propre-wallet-pour-les-crypto-362820?utm_source=feed&utm_campaign=general",
+   "description": "Le navigateur web Brave s’offre son propre wallet pour les crypto",
+   "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
+   "favorite": 8,
+   "tags": ["navigateur", "cryptomonnaie"]
   },
   {
     "id": 9,
@@ -97,7 +106,8 @@
     "url": "https://blog.eleven-labs.com/fr/que-faire-en-cas-de-fuite-de-donnees/",
     "description": "Que faire en cas de fuite de données ?",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
-    "favorite": 3
+    "favorite": 3,
+    "tags": ["actualité", "leak"]
   },
   {
     "id": 10,
@@ -107,7 +117,8 @@
     "url": "https://www.lefigaro.fr/secteur/high-tech/2019/01/15/32001-20190115ARTFIG00129-tesla-promet-d-offrir-une-model-3-a-qui-saura-hacker-son-systeme-informatique.php",
     "description": "Tesla promet d'offrir une Model 3 à celui qui piratera son système informatique",
     "avatar": "https://github.com/GratadeJF.png?size=300",
-    "favorite": 4
+    "favorite": 4,
+    "tags": ["tesla", "hacking"]
   },
   {
     "id": 11,
@@ -117,7 +128,8 @@
     "url": "https://www.youtube.com/c/codeurpro",
     "description": "codeur-pro - YouTube",
     "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
-    "favorite": 5
+    "favorite": 5,
+    "tags": ["youtube"]
   },
   {
     "id": 12,
@@ -127,7 +139,8 @@
     "url": "https://www.youtube.com/c/LeDesignerduWeb",
     "description": "Le Designer du Web - YouTube",
     "avatar": "https://github.com/leopinchon.png?size=300",
-    "favorite": 7
+    "favorite": 7,
+    "tags": ["youtube", "webdesign"]
   },
   {
     "id": 13,
@@ -137,7 +150,8 @@
     "url": "https://www.lesnumeriques.com/vie-du-net/l-autorite-americaine-des-medicaments-autorise-la-realite-virtuelle-pour-traiter-les-lombalgies-chroniques-n171437.html",
     "description": "L'autorité américaine des médicaments autorise la réalité virtuelle pour traiter les lombalgies chroniques",
     "avatar": "https://github.com/Benedct-Laurain.png?size=300",
-    "favorite": 2
+    "favorite": 2,
+    "tags": ["réalité virtuelle"]
   },
   {
     "id": 14,
@@ -147,7 +161,8 @@
     "url": "https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
     "description": "The Age of A.I. - YouTube",
     "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-    "favorite": 7
+    "favorite": 7,
+    "tags": ["youtube", "ia"]
   },
   {
     "id": 15,
@@ -157,7 +172,8 @@
     "url": "https://haveibeenpwned.com/",
     "description": "Have I been pwned?",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/9axzF2WJPEBSt0fafpSY8QTqf0gLbEZq.jpg",
-    "favorite": 8
+    "favorite": 8,
+    "tags": ["hacking"]
   },
   {
     "id": 16,
@@ -167,7 +183,8 @@
     "url": "https://www.numerama.com/tech/756162-%e2%80%89nous-avons-fourni-la-protection-que-nous-etions-censes-fournir%e2%80%89-proton-revient-sur-la-controverse-des-adresses-ip.html",
     "description": "«Nous avons fourni la protection que nous étions censés fournir» : Proton revient sur la controverse des adresses IP",
     "avatar": "https://www.gravatar.com/avatar/40224?d=robohash&s=300",
-    "favorite": 9
+    "favorite": 9,
+    "tags": ["hacking"]
   },
   {
     "id": 17,
@@ -177,7 +194,8 @@
     "url": "https://www.01net.com/actualites/comment-le-gant-haptique-de-meta-veut-nous-donner-l-illusion-du-toucher-2051299.html",
     "description": "Comment le gant haptique de Meta veut nous donner l’illusion du toucher",
     "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
-    "favorite": 2
+    "favorite": 2,
+    "tags": ["réalité virtuelle"]
   },
   {
     "id": 18,
@@ -186,8 +204,9 @@
     "member": "Déo",
     "url": "https://www.futura-sciences.com/tech/actualites/technologie-ecran-lentille-contact-vision-futur-arrive-93155/",
     "description": "Un écran dans une lentille de contact ? La vision du futur arrive !",
-    "avatar": "https://storage.googleapis.com/quest_editor_uploads/89ogj3FhO8t3or3ke75BDC8sSgQIzBpR.jpeg",
-    "favorite": 7
+    "avatar": "https://github.com/KodackMack.png?size=300",
+    "favorite": 7,
+    "tags": ["réalité augmentée"]
   },
   {
     "id": 19,
@@ -195,9 +214,10 @@
     "year": 2021,
     "member": "Lyndia",
     "url": "https://www.linkedin.com/posts/totalinuxsas_les-secrets-ditrium-activity-6808337901374492672-xFZy/",
-    "description": "(1) Publier | LinkedIn",
+    "description": "LinkedIn",
     "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
-    "favorite": 9
+    "favorite": 9,
+    "tags": ["linkedin"]
   },
   {
     "id": 20,
@@ -207,7 +227,8 @@
     "url": "https://daily.dev/",
     "description": "daily.dev | The Homepage Every Developer Deserves",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
-    "favorite": 2
+    "favorite": 2,
+    "tags": ["veille"]
   },
   {
     "id": 21,
@@ -217,7 +238,8 @@
     "url": "https://www.fun-mooc.fr/fr/",
     "description": "Se former en liberté",
     "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-    "favorite": 1
+    "favorite": 1,
+    "tags": ["formation", "mooc"]
   },
   {
     "id": 22,
@@ -227,7 +249,8 @@
     "url": "https://www.phonandroid.com/google-maps-decouvrez-les-quatre-nouvelles-fonctionnalites-qui-vont-vous-faciliter-la-vie.html",
     "description": "Google Maps : découvrez les quatre nouvelles fonctionnalités qui vont vous faciliter la vie",
     "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-    "favorite": 0
+    "favorite": 0,
+    "tags": ["google maps"]
   },
   {
     "id": 23,
@@ -237,7 +260,8 @@
     "url": "https://javascript.plainenglish.io/10-best-websites-for-practising-and-perfecting-front-end-development-56e382b2c0ac",
     "description": "10 Best Websites for Practising and Perfecting Front-End Development",
     "avatar": "https://github.com/mariem31.png?size=300",
-    "favorite": 9
+    "favorite": 9,
+    "tags": ["front-end", "javascript"]
   },
   {
     "id": 24,
@@ -247,7 +271,8 @@
     "url": "https://mastery.games/build/zelda/",
     "description": "Zelda: Breath of the Wild with CSS",
     "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-    "favorite": 2
+    "favorite": 2,
+    "tags": ["css", "gaming"]
   },
   {
     "id": 25,
@@ -257,7 +282,8 @@
     "url": "https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh",
     "description": "Fonts Ninja",
     "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-    "favorite": 4
+    "favorite": 4,
+    "tags": ["fonts"]
   },
   {
     "id": 26,
@@ -267,7 +293,8 @@
     "url": "https://www.youtube.com/channel/UCLOAPb7ATQUs_nDs9ViLcMw",
     "description": "Benjamin Code - Youtube",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
-    "favorite": 6
+    "favorite": 6,
+    "tags": ["youtube", "webdesign"]
   },
   {
     "id": 27,
@@ -277,7 +304,8 @@
     "url": "https://dev.to/simonpaix/7-useful-html-attributes-you-may-not-know-7mn",
     "description": "7 useful HTML attributes you may not know",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
-    "favorite": 4
+    "favorite": 4,
+    "tags": ["html"]
   },
   {
     "id": 28,
@@ -287,7 +315,8 @@
     "url": "https://www.msn.com/fr-fr/lifestyle/shopping/microsoft-introduit-un-mode-super-s%C3%A9curis%C3%A9-dans-son-navigateur-edge/ar-AAR5JZR?ocid=msedgdhp&pc=U531",
     "description": "Microsoft introduit un mode « super sécurisé » dans son navigateur Edge (msn.com)",
     "avatar": "https://github.com/MunschThomas.png?size=300",
-    "favorite": 8
+    "favorite": 8,
+    "tags": ["microsoft", "edge"]
   },
   {
     "id": 29,
@@ -297,7 +326,8 @@
     "url": "https://gyazo.com/",
     "description": "Save & Share screen captures instantly.",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
-    "favorite": 6
+    "favorite": 6,
+    "tags": ["outils", "gyazo"]
   },
   {
     "id": 30,
@@ -307,7 +337,8 @@
     "url": "https://levelup.gitconnected.com/semantics-how-i-structure-html-without-divitis-dd0d376f193",
     "description": "How I Structure HTML for Better SEO Results",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
-    "favorite": 7
+    "favorite": 7,
+    "tags": ["html"]
   },
   {
     "id": 31,
@@ -317,7 +348,8 @@
     "url": "https://dev.to/mustapha/i-made-a-working-gameboy-css-art-try-it-out-4m1j",
     "description": "I made a working Gameboy CSS art: try it out",
     "avatar": "https://github.com/GratadeJF.png?size=300",
-    "favorite": 4
+    "favorite": 4,
+    "tags": ["css", "gaming"]
   },
   {
     "id": 32,
@@ -327,7 +359,8 @@
     "url": "https://www.youtube.com/c/RhiGeek/videos",
     "description": "RhiGeek - Youtube",
     "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
-    "favorite": 5
+    "favorite": 5,
+    "tags": ["youtube"]
   },
   {
     "id": 33,
@@ -337,7 +370,8 @@
     "url": "https://www.youtube.com/c/grafikart/videos",
     "description": "Grafikart.fr - YouTube",
     "avatar": "https://github.com/leopinchon.png?size=300",
-    "favorite": 6
+    "favorite": 6,
+    "tags": ["youtube"]
   },
   {
     "id": 34,
@@ -347,7 +381,8 @@
     "url": "https://www.geek-art.net/",
     "description": "Geek-Art : l'art inspiré par la pop culture !",
     "avatar": "https://github.com/Benedct-Laurain.png?size=300",
-    "favorite": 8
+    "favorite": 8,
+    "tags": ["art"]
   },
   {
     "id": 35,
@@ -355,9 +390,10 @@
     "year": 2021,
     "member": "Yannick",
     "url": "https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
-    "description": "The Age of A.I. - Youtube",
+    "description": "The Age of A.I.",
     "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-    "favorite": 25
+    "favorite": 25,
+    "tags": ["youtube", "ia"]
   },
   {
     "id": 36,
@@ -367,7 +403,8 @@
     "url": "https://cssgrid-generator.netlify.app/",
     "description": "CSS Grid Generator",
     "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-    "favorite": 7
+    "favorite": 7,
+    "tags": ["css", "outil"]
   },
   {
     "id": 37,
@@ -377,17 +414,19 @@
     "url": "https://www.steamdeck.com/fr/",
     "description": "Une puissance de jeu inégalée entre vos mains",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/9axzF2WJPEBSt0fafpSY8QTqf0gLbEZq.jpg",
-    "favorite": 9
+    "favorite": 9,
+    "tags": ["gaming"]
   },
   {
     "id": 38,
     "week": 47,
-    "year": 2021,
+    "year": 202,
     "member": "Julien",
     "url": "https://www.youtube.com/watch?v=0ETcLj5jBy4&t=26s",
     "description": "Le mystère Satoshi : enquête sur l'inventeur du bitcoin | ARTE - Youtube",
     "avatar": "https://www.gravatar.com/avatar/40224?d=robohash&s=300",
-    "favorite": 5
+    "favorite": 5,
+    "tags": ["youtube", "cryptomonnaie", "bitcoin", "documentaire"]
   },
   {
     "id": 39,
@@ -397,7 +436,8 @@
     "url": "https://www.lemondeinformatique.fr/actualites/lire-premieres-impressions-sur-la-preversion-de-github-copilot-84756.html",
     "description": "Premières impressions sur la préversion de GitHub Copilot",
     "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
-    "favorite": 7
+    "favorite": 7,
+    "tags": ["github", "copilot", "outil"]
   },
   {
     "id": 40,
@@ -406,8 +446,9 @@
     "member": "Déo",
     "url": "https://about.facebook.com/fr/meta/",
     "description": "Découvrir Meta | Meta",
-    "avatar": "https://storage.googleapis.com/quest_editor_uploads/89ogj3FhO8t3or3ke75BDC8sSgQIzBpR.jpeg",
-    "favorite": 9
+    "avatar": "https://github.com/KodackMack.png?size=300",
+    "favorite": 9,
+    "tags": ["meta", "facebook"]
   },
   {
     "id": 41,
@@ -417,7 +458,8 @@
     "url": "https://lemag.digitools.io/MagDigital/marketing-ameliorer-votre-veille-informationnelle/",
     "description": "Quelles méthodes et outils pour organiser sa veille informationnelle digitale en 2020 ?",
     "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
-    "favorite": 5
+    "favorite": 5,
+    "tags": ["veille", "outil", "methode"]
   },
   {
     "id": 42,
@@ -427,7 +469,8 @@
     "url": "https://www.youtube.com/watch?v=WSx8tcGow88",
     "description": "Quel pays code le mieux ? Même mission pour 7 dev sur Fiverr - Youtube",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
-    "favorite": 5
+    "favorite": 5,
+    "tags": ["youtube", "fiverr"]
   },
   {
     "id": 43,
@@ -437,7 +480,8 @@
     "url": "https://www.docstring.fr/",
     "description": "Docstring",
     "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-    "favorite": 5
+    "favorite": 5,
+    "tags": ["formation", "python", "docstring"]
   },
   {
     "id": 44,
@@ -447,7 +491,8 @@
     "url": "https://www.sudouest.fr/youtube-l-auteur-de-la-toute-premiere-video-n-aime-pas-la-suppression-du-dislike-et-veut-le-faire-savoir-7011888.php",
     "description": "Youtube : l’auteur de la toute première vidéo n’aime pas la suppression du 'dislike' et veut le faire savoir",
     "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-    "favorite": 9
+    "favorite": 9,
+    "tags": ["youtube", "actualité", "drama"]
   },
   {
     "id": 45,
@@ -457,7 +502,8 @@
     "url": "https://dev.to/dragosnedelcu/how-to-become-a-senior-developer-in-3-simple-steps-gc3",
     "description": "How To Become A Senior Developer In 3 Simple Steps",
     "avatar": "https://github.com/mariem31.png?size=300",
-    "favorite": 7
+    "favorite": 7,
+    "tags": ["formation", "methode"]
   },
   {
     "id": 46,
@@ -467,7 +513,8 @@
     "url": "https://jimmylollipop.com/8-ui-ux-tips-about-password-design/",
     "description": "8 UI/UX tips about password design",
     "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-    "favorite": 5
+    "favorite": 5,
+    "tags": ["ux", "ui", "webdesign"]
   },
   {
     "id": 47,
@@ -477,7 +524,8 @@
     "url": "https://www.blogdumoderateur.com/linkedin-comment-creer-newsletter/",
     "description": "Comment créer sa newsletter sur LinkedIn",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
-    "favorite": 9
+    "favorite": 9,
+    "tags": ["linkedin"]
   },
   {
     "id": 48,
@@ -487,7 +535,8 @@
     "url": "https://www.francebleu.fr/infos/transports/un-limiteur-de-vitesse-intelligent-sur-toutes-les-voitures-neuves-a-partir-du-1er-juillet-2022-1637732451",
     "description": "Un régulateur de vitesse intelligent obligatoire sur toutes les voitures neuves à partir de juillet prochain",
     "avatar": "https://github.com/MunschThomas.png?size=300",
-    "favorite": 15
+    "favorite": 15,
+    "tags": ["actualité"]
   },
   {
     "id": 49,
@@ -497,7 +546,8 @@
     "url": "https://www.rtl.fr/actu/sciences-tech/wish-n-est-plus-disponible-sur-iphone-et-bientot-retire-de-google-7900100925",
     "description": "L'application Wish n'est plus disponible sur iPhone, le site bientôt retiré de Google",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
-    "favorite": 9
+    "favorite": 9,
+    "tags": ["google", "google store", "wish", "actualité"]
   },
   {
     "id": 50,
@@ -507,7 +557,8 @@
     "url": "https://korben.info/facebook-delete.html",
     "description": "Un outil pour supprimer rapidement le contenu Facebook que vous n’assumez pas",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
-    "favorite": 7
+    "favorite": 7,
+    "tags": ["facebook"]
   },
   {
     "id": 51,
@@ -517,7 +568,8 @@
     "url": "https://korben.info/cookie-factory.html",
     "description": "Incarnez la personne de vos rêves et trompez les algos avec la #CookieFactory",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
-    "favorite": 6
+    "favorite": 6,
+    "tags": ["outil"]
   },
   {
     "id": 52,
@@ -527,7 +579,8 @@
     "url": "https://www.electronjs.org/",
     "description": "Développez des applications desktop multi-plateformes avec JavaScript, HTML et CSS",
     "avatar": "https://github.com/GratadeJF.png?size=300",
-    "favorite": 18
+    "favorite": 18,
+    "tags": ["javascript", "html", "css", "methode", "outil"]
   },
   {
     "id": 53,
@@ -537,7 +590,8 @@
     "url": "https://www.20minutes.fr/high-tech/3187591-20211202-matrix-comment-casque-protege-cycliste-signalant-moindres-faits-gestes",
     "description": "Sécurité à vélo : Matrix, le casque qui protège le cycliste en signalant ses moindres faits et gestes",
     "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
-    "favorite": 6
+    "favorite": 6,
+    "tags": ["actualité"]
   },
   {
     "id": 54,
@@ -547,7 +601,8 @@
     "url": "https://dev.to/mahamatmans/array-cheatsheet-javascript-3mci",
     "description": "Array cheatsheet Javascript",
     "avatar": "https://github.com/leopinchon.png?size=300",
-    "favorite": 2
+    "favorite": 2,
+    "tags": ["javascript"]
   },
   {
     "id": 55,
@@ -557,7 +612,8 @@
     "url": "https://www.journaldugeek.com/2021/11/30/le-kazakhstan-na-plus-delectricite-a-cause-du-bitcoin/",
     "description": "Le Kazakhstan n’a plus d’électricité à cause du Bitcoin",
     "avatar": "https://github.com/Benedct-Laurain.png?size=300",
-    "favorite": 2
+    "favorite": 2,
+    "tags": ["bitcoin", "cryptomonnaie"]
   },
   {
     "id": 56,
@@ -567,7 +623,8 @@
     "url": "https://www.clubic.com/antivirus-securite-informatique/actualite-396687-peut-on-interdire-les-mots-de-passe-par-defaut-c-est-ce-que-veut-le-gouvernement-britannique.html",
     "description": "Peut-on interdire les mots de passe par défaut ? C'est ce que veut le gouvernement britannique",
     "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-    "favorite": 2
+    "favorite": 2,
+    "tags": ["hacking", "password"]
   },
   {
     "id": 57,
@@ -577,7 +634,8 @@
     "url": "https://www.gamingonlinux.com/2021/12/open-3d-engine-o3de-sees-a-first-major-release-linux-support-in-preview/",
     "description": "Open 3D Engine (O3DE) sees a first major release, Linux support in preview",
     "avatar": "https://www.gravatar.com/avatar/40224?d=robohash&s=300",
-    "favorite": 0
+    "favorite": 0,
+    "tags": ["linux", "o3de"]
   },
   {
     "id": 58,
@@ -587,7 +645,8 @@
     "url": "https://korben.info/facebook-delete.html",
     "description": "Un outil pour supprimer rapidement le contenu Facebook que vous n’assumez pas",
     "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
-    "favorite": 2
+    "favorite": 2,
+    "tags": ["facebook"]
   },
   {
     "id": 59,
@@ -596,8 +655,9 @@
     "member": "Déo",
     "url": "https://www.rtl.fr/actu/sciences-tech/wish-n-est-plus-disponible-sur-iphone-et-bientot-retire-de-google-7900100925",
     "description": "L'application Wish n'est plus disponible sur iPhone, le site bientôt retiré de Google",
-    "avatar": "https://storage.googleapis.com/quest_editor_uploads/89ogj3FhO8t3or3ke75BDC8sSgQIzBpR.jpeg",
-    "favorite": 5
+    "avatar": "https://github.com/KodackMack.png?size=300",
+    "favorite": 5,
+    "tags": ["google", "google store", "wish", "actualité"]
   },
   {
     "id": 60,
@@ -607,7 +667,8 @@
     "url": "https://www.lefigaro.fr/medias/viginum-pourra-surveiller-nos-publications-sur-les-reseaux-sociaux-20211210",
     "description": "Ingérence numérique : l'agence d'État Viginum pourra surveiller nos publications sur les réseaux sociaux",
     "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
-    "favorite": 75
+    "favorite": 75,
+    "tags": ["figaro"]
   },
   {
     "id": 61,
@@ -617,7 +678,8 @@
     "url": "www.dealabs.com",
     "description": "Tous les deals - dealabs.com",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
-    "favorite": 89
+    "favorite": 89,
+    "tags": ["dealabs", "bon plan"]
   },
   {
     "id": 62,
@@ -627,7 +689,8 @@
     "url": "https://www.jeuxvideo.com/news/1503175/final-fantasy-14-endwalker-les-serveurs-sont-surcharges-square-enix-fait-le-point-et-promet-une-compensation.htm",
     "description": "Final Fantasy 14 Endwalker : Les serveurs sont surchargés ! Square Enix fait le point et promet une compensation",
     "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-    "favorite": 254
+    "favorite": 254,
+    "tags": ["gaming", "final fantasy", "mmo"]
   },
   {
     "id": 63,
@@ -637,7 +700,8 @@
     "url": "https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi/related",
     "description": "Chrome Web Store : Return YouTube Dislike",
     "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-    "favorite": 25
+    "favorite": 25,
+    "tags": ["google", "chrome", "youtube"]
   },
   {
     "id": 64,
@@ -647,7 +711,8 @@
     "url": "https://www.clubic.com/pro/entreprises/nvidia/actualite-397674-la-geforce-rtx-2060-12-go-pourrait-elle-detourner-les-mineurs-des-autres-cartes-graphiques.html",
     "description": "La GeForce RTX 2060 12 Go pourrait-elle détourner les mineurs des autres cartes graphiques ?",
     "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-    "favorite": 24
+    "favorite": 24,
+    "tags": ["cryptomonnaie", "carte graphique"]
   },
   {
     "id": 65,
@@ -657,7 +722,8 @@
     "url": "https://blog.bitsrc.io/google-chrome-experimental-features-for-developers-a9a7cc9d1b30",
     "description": "Google Chrome Hidden Features Every Developer Should Know",
     "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-    "favorite": 2
+    "favorite": 2,
+    "tags": ["google", "chrome"]
   },
   {
     "id": 66,
@@ -667,7 +733,8 @@
     "url": "https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/",
     "description": "A Complete Guide to Dark Mode on the Web",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
-    "favorite": 1
+    "favorite": 1,
+    "tags": ["dark mode", "css"]
   },
   {
     "id": 67,
@@ -677,7 +744,8 @@
     "url": "https://excel.developpez.com/actu/328546/Microsoft-apporte-JavaScript-a-Excel-par-l-intermediaire-d-une-nouvelle-API-pour-permettre-aux-developpeurs-de-creer-des-types-de-donnees-personnalises-dans-Excel/",
     "description": "Microsoft apporte JavaScript à Excel par l'intermédiaire d'une nouvelle API",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
-    "favorite": 7
+    "favorite": 7,
+    "tags": ["javascript", "excel", "api"]
   },
   {
     "id": 68,
@@ -687,7 +755,8 @@
     "url": "https://devdocs.io/",
     "description": "DevDocs combines multiple API documentations in a fast, organized, and searchable interface.",
     "avatar": "https://github.com/MunschThomas.png?size=300",
-    "favorite": 8
+    "favorite": 8,
+    "tags": ["api"]
   },
   {
     "id": 69,
@@ -697,7 +766,8 @@
     "url": "https://www.frandroid.com/marques/google/1148771_les-smartphones-pixel-de-google-ont-desormais-une-nouvelle-fonction-qui-peut-sauver-votre-vie",
     "description": "Les smartphones Pixel de Google ont désormais une nouvelle fonction qui peut sauver votre vie",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
-    "favorite": 9
+    "favorite": 9,
+    "tags": ["google", "pixel", "smartphone"]
   },
   {
     "id": 70,
@@ -707,7 +777,8 @@
     "url": "https://www.tech2tech.fr/du-wifi-6e-dans-les-box-free-orange-bouygues-et-sfr/",
     "description": "Du WiFi 6E dans les box Free, Orange, Bouygues et SFR",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
-    "favorite": 15
+    "favorite": 15,
+    "tags": ["wifi", "free"," orange", "bouygues", "sfr", "frandroid"]
   },
   {
     "id": 71,
@@ -717,7 +788,8 @@
     "url": "https://www.numerama.com/tech/761530-le-wi-fi-6e-arrive-en-france-et-cest-une-bonne-nouvelle-pour-vos-futurs-equipements-sans-fil.html",
     "description": "Le Wi-Fi 6E arrive en France et c’est une bonne nouvelle pour vos futurs équipements sans fil",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
-    "favorite": 24
+    "favorite": 24,
+    "tags": ["wifi", "6e"]
   },
   {
     "id": 72,
@@ -727,7 +799,8 @@
     "url": "https://www.usine-digitale.fr/editorial/bruxelles-injecte-1-98-milliard-d-euros-dans-l-europe-numerique.N1159387",
     "description": "Bruxelles injectera 1,98 milliard d'euros dans \"l'Europe numérique\" en 2022",
     "avatar": "https://github.com/GratadeJF.png?size=300",
-    "favorite": 24
+    "favorite": 24,
+    "tags": ["actualité", "belgique"]
   },
   {
     "id": 73,
@@ -737,7 +810,8 @@
     "url": "https://www.bram.us/2021/02/23/the-future-of-css-scroll-linked-animations-part-1/?ref=designcourseyoutubechannel",
     "description": "The Future of CSS: Scroll-Linked Animations with @scroll-timeline",
     "avatar": "https://github.com/leopinchon.png?size=300",
-    "favorite": 8
+    "favorite": 8,
+    "tags": ["css"]
   },
   {
     "id": 74,
@@ -747,7 +821,8 @@
     "url": "https://www.journaldugeek.com/2021/12/07/la-puce-de-neuralink-pourrait-etre-testee-sur-des-humains-en-2022/",
     "description": "La puce de Neuralink pourrait être testée sur des humains en 2022",
     "avatar": "https://github.com/Benedct-Laurain.png?size=300",
-    "favorite": 7
+    "favorite": 7,
+    "tags": ["neuralink", "elon musk"]
   },
   {
     "id": 75,
@@ -757,7 +832,8 @@
     "url": "https://canaltp.github.io/navitia-playground/",
     "description": "navitia playground",
     "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-    "favorite": 0
+    "favorite": 0,
+    "tags": ["api", "json"]
   },
   {
     "id": 76,
@@ -767,7 +843,8 @@
     "url": "https://argent-nouvelles.info/minecraft-propose-des-cours-gratuits-aux-enfants/",
     "description": "Minecraft propose des cours gratuits aux enfants",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/9axzF2WJPEBSt0fafpSY8QTqf0gLbEZq.jpg",
-    "favorite": 7
+    "favorite": 7,
+    "tags": ["gaming", "minecraft"]
   },
   {
     "id": 77,
@@ -777,7 +854,8 @@
     "url": "https://www.youtube.com/watch?v=nNpvWBuTfrc",
     "description": "The Matrix Resurrections – Official Trailer 2",
     "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
-    "favorite": 8
+    "favorite": 8,
+    "tags": ["film", "matrix", "youtube"]
   },
   {
     "id": 78,
@@ -786,8 +864,9 @@
     "member": "Déo",
     "url": "https://www.cnetfrance.fr/news/nft-voila-pourquoi-des-acheteurs-depensent-des-millions-pour-des-jpeg-39933497.htm",
     "description": "NFT : voilà pourquoi des acheteurs dépensent des millions pour des JPEG",
-    "avatar": "https://storage.googleapis.com/quest_editor_uploads/89ogj3FhO8t3or3ke75BDC8sSgQIzBpR.jpeg",
-    "favorite": 6
+    "avatar": "https://github.com/KodackMack.png?size=300",
+    "favorite": 6,
+    "tags": ["nft", "cryptomonnaie"]
   },
   {
     "id": 79,
@@ -797,7 +876,8 @@
     "url": "https://www.usine-digitale.fr/article/avec-monfranceconnect-vous-pouvez-desormais-acceder-aux-donnees-que-les-administrations-ont-sur-vous.N1165037",
     "description": "Avec MonFranceConnect, vous pouvez désormais accéder aux données que les administrations ont sur vous",
     "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
-    "favorite": 4
+    "favorite": 4,
+    "tags": ["monfranceconnect"]
   },
   {
     "id": 80,
@@ -807,7 +887,8 @@
     "url": "https://www.lefigaro.fr/medias/viginum-pourra-surveiller-nos-publications-sur-les-reseaux-sociaux-20211210",
     "description": "Ingérence numérique : l'agence d'État Viginum pourra surveiller nos publications sur les réseaux sociaux",
     "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
-    "favorite": 2
+    "favorite": 2,
+    "tags": ["viginum", "le figaro"]
   },
   {
     "id": 81,
@@ -817,7 +898,8 @@
     "url": "https://bennettfeely.com/clippy/",
     "description": "Clippy — CSS clip-path maker",
     "avatar": "https://www.gravatar.com/avatar/45763?d=identicon&s=300",
-    "favorite": 4
+    "favorite": 4,
+    "tags": ["css", "outil"]
   },
   {
     "id": 82,
@@ -827,7 +909,8 @@
     "url": "https://keepa.com/",
     "description": "Keepa - Amazon Price Tracker",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
-    "favorite": 7
+    "favorite": 7,
+    "tags": ["outil", "amazon"]
   },
   {
     "id": 83,
@@ -837,7 +920,8 @@
     "url": "https://pythontutor.com/",
     "description": "VISUALIZE CODE EXECUTION for Python, Java, C, C++, JavaScript, and Ruby",
     "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-    "favorite": 14
+    "favorite": 14,
+    "tags": ["outil", "python", "java", "c" , "c++", "javascript", "ruby"]
   },
   {
     "id": 84,
@@ -847,7 +931,8 @@
     "url": "https://www.commentcoder.com/themes-vs-code/",
     "description": "19 Thèmes Visual Studio Code pour 2022",
     "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-    "favorite": 2
+    "favorite": 2,
+    "tags": ["vsc", "visual studio code", "theme"]
   },
   {
     "id": 85,
@@ -857,7 +942,8 @@
     "url": "https://dev.to/0shuvo0/i-made-squid-game-with-javascript-10j9",
     "description": "I made Squid Game with JavaScript",
     "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-    "favorite": 14
+    "favorite": 14,
+    "tags": ["serie", "squid game", "gaming", "javascript"]
   },
   {
     "id": 86,
@@ -867,7 +953,8 @@
     "url": "https://www.pantone.com/eu/fr/color-of-the-year-2022",
     "description": "Annonce de la Pantone Color of the Year 2022",
     "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-    "favorite": 57
+    "favorite": 57,
+    "tags": ["couleur", "actualite"]
   },
   {
     "id": 87,
@@ -877,7 +964,8 @@
     "url": "https://dev.to/dom_the_dev/how-to-use-the-spotify-api-in-your-react-js-app-50pn",
     "description": "How to use the Spotify API In Your React JS App",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
-    "favorite": 6
+    "favorite": 6,
+    "tags": ["api", "js", "javascript", "spotify"]
   },
   {
     "id": 88,
@@ -887,7 +975,8 @@
     "url": "https://react-hook-form.com/",
     "description": "React Hook Form - Simple React forms validation",
     "avatar": "https://github.com/MunschThomas.png?size=300",
-    "favorite": 2
+    "favorite": 2,
+    "tags": ["react", "hook"]
   },
   {
     "id": 89,
@@ -897,7 +986,8 @@
     "url": "https://korben.info/pixel-art-css.html",
     "description": "Comment faire du pixel art avec de la feuille de styles (CSS) ?",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
-    "favorite": 7
+    "favorite": 7,
+    "tags": ["css", "pixel art", "art"]
   },
   {
     "id": 90,
@@ -907,7 +997,8 @@
     "url": "https://www.frandroid.com/marques/sony/675299_comment-connecter-manette-ps4-pc",
     "description": "Comment jouer avec une manette PS4 sur PC, en Bluetooth ou filaire",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
-    "favorite": 2
+    "favorite": 2,
+    "tags": ["gaming", "ps4", "playstation", "pc", "bluetooth", "manette"]
   },
   {
     "id": 91,
@@ -917,7 +1008,8 @@
     "url": "https://www.lemondeinformatique.fr/actualites/lire-oracle-etudie-la-balance-benefices-risques-de-l-ia-au-travail-85077.html",
     "description": "Oracle étudie la balance bénéfices/risques de l'IA au travail",
     "avatar": "https://github.com/GratadeJF.png?size=300",
-    "favorite": 17
+    "favorite": 17,
+    "tags": ["oracle", "ia"]
   },
   {
     "id": 92,
@@ -927,7 +1019,8 @@
     "url": "https://pozette.fr/the-box-le-colis-ecolo-reutilisable-un-millier-de-fois/",
     "description": "« The Box », le colis écolo réutilisable 1 000 fois !",
     "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
-    "favorite": 6
+    "favorite": 6,
+    "tags": ["actualité", "ecologie"]
   },
   {
     "id": 93,
@@ -937,7 +1030,8 @@
     "url": "https://www.lemonde.fr/economie/article/2021/12/12/la-suede-le-royaume-ou-les-start-up-se-transforment-en-licornes_6105772_3234.html",
     "description": "La Suède, le royaume où les start-up se transforment en licornes",
     "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
-    "favorite": 15
+    "favorite": 15,
+    "tags": ["start-up", "actualité"]
   },
   {
     "id": 94,
@@ -947,7 +1041,8 @@
     "url": "https://tailwindcss.com/blog/tailwindcss-v3",
     "description": "Tailwind CSS v3.0",
     "avatar": "https://github.com/leopinchon.png?size=300",
-    "favorite": 12
+    "favorite": 12,
+    "tags": ["tailwind", "css"]
   },
   {
     "id": 95,
@@ -957,7 +1052,8 @@
     "url": "https://www.capital.fr/entreprises-marches/metavers-nike-rachete-la-start-up-de-baskets-virtuelles-rtfkt-1422836",
     "description": "Métavers : Nike rachète la start-up de baskets virtuelles RTFKT",
     "avatar": "https://github.com/Benedct-Laurain.png?size=300",
-    "favorite": 19
+    "favorite": 19,
+    "tags": ["nike", "metavers", "nft"]
   },
   {
     "id": 96,
@@ -967,7 +1063,8 @@
     "url": "https://www.journaldugeek.com/2021/12/16/jouer-a-sonic-dans-sa-tesla-cest-desormais-possible/",
     "description": "Jouer à Sonic dans sa Tesla, c’est désormais possible",
     "avatar": "https://github.com/Benedct-Laurain.png?size=300",
-    "favorite": 16
+    "favorite": 16,
+    "tags": ["gaming", "tesla", "sonic"]
   },
   {
     "id": 97,
@@ -977,7 +1074,8 @@
     "url": "https://www.youtube.com/c/OnlineTutorials4Designers",
     "description": "Online Tutorials - Youtube",
     "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-    "favorite": 5
+    "favorite": 5,
+    "tags": ["youtube", "tutoriel", "webdesign"]
   },
   {
     "id": 98,
@@ -987,7 +1085,8 @@
     "url": "https://eandt.theiet.org/content/articles/2021/12/ai-accurately-predicts-whether-people-will-develop-dementia-within-two-years/",
     "description": "AI accurately predicts whether people will develop dementia within two years",
     "avatar": "https://www.gravatar.com/avatar/40224?d=robohash&s=300",
-    "favorite": 14
+    "favorite": 14,
+    "tags": ["ia", "actualité", "sante"]
   },
   {
     "id": 99,
@@ -997,7 +1096,8 @@
     "url": "https://www.clubic.com/pro/entreprises/microsoft/dossier-397605-d-internet-explorer-a-edge-microsoft-et-la-strategie-anticoncurrentielle.html",
     "description": "D'Internet Explorer à Edge : pourquoi Microsoft force toujours pour que vous utilisiez son navigateur ?",
     "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
-    "favorite": 1
+    "favorite": 1,
+    "tags": ["internet explorer", "edge", "navigateur"]
   },
   {
     "id": 100,
@@ -1007,7 +1107,8 @@
     "url": "https://blog.link-value.fr/reconversion-professionnelle-opportunites-developpement-web-2aeea838375e",
     "description": "Reconversion professionnelle : saisir les opportunités d’emploi en développement web",
     "avatar": "https://github.com/KodackMack.png?size=300",
-    "favorite": 12
+    "favorite": 12,
+    "tags": ["formation"]
   },
   {
     "id": 101,
@@ -1017,7 +1118,8 @@
     "url": "https://jai-un-pote-dans-la.com/adobe-lance-creative-cloud-express-outil-creation-simple-canva/",
     "description": "Creative Cloud Express, un outil de création aussi simple que Canva !",
     "avatar": "https://github.com/KodackMack.png?size=300",
-    "favorite": 20
+    "favorite": 20,
+    "tags": ["creative cloud express", "cloud", "canva"]
   },
   {
     "id": 102,
@@ -1026,8 +1128,9 @@
     "member": "Déo",
     "url": "https://www.futura-sciences.com/tech/actualites/technologie-bluffant-cette-intelligence-artificielle-transforme-mots-images-95142/",
     "description": "Bluffant ! Cette Intelligence artificielle transforme les mots en images",
-    "avatar": "https://storage.googleapis.com/quest_editor_uploads/89ogj3FhO8t3or3ke75BDC8sSgQIzBpR.jpeg",
-    "favorite": 21
+    "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
+    "favorite": 21,
+    "tags": ["ia", "art"]
   },
   {
     "id": 103,
@@ -1037,7 +1140,8 @@
     "url": "https://www.lemondeinformatique.fr/actualites/lire-emploi-it-soignez-les-softskills-85131.html",
     "description": "Emploi IT : soignez les softskills",
     "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
-    "favorite": 1
+    "favorite": 1,
+    "tags": ["softskill", "methode", "outil"]
   },
   {
     "id": 104,
@@ -1047,7 +1151,8 @@
     "url": "https://mui.com/",
     "description": "The React UI library you always wanted",
     "avatar": "https://www.gravatar.com/avatar/45763?d=identicon&s=300",
-    "favorite": 0
+    "favorite": 0,
+    "tags": ["react", "ui", "library"]
   },
   {
     "id": 105,
@@ -1057,7 +1162,8 @@
     "url": "https://theuselessweb.com/",
     "description": "TAKE ME TO A USELESS WEBSITE",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
-    "favorite": 0
+    "favorite": 0,
+    "tags": ["useless"]
   },
   {
     "id": 106,
@@ -1067,7 +1173,8 @@
     "url": "https://beautifytools.com/excel-to-json-converter.php",
     "description": "Excel To Json Converter - Beautify Tools",
     "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-    "favorite": 100
+    "favorite": 100,
+    "tags": ["excel", "json", "outil"]
   },
   {
     "id": 107,
@@ -1077,7 +1184,8 @@
     "url": "https://www.liberation.fr/economie/economie-numerique/entre-harcelement-sexuel-et-inconfort-le-metavers-de-facebook-deja-un-lieu-toxique-pour-les-femmes-20211218_KHZVH2YHQNAX7DZ6J7GYWRR6SY/",
     "description": "Entre harcèlement sexuel et inconfort, le métavers de Facebook déjà un lieu toxique pour les femmes",
     "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-    "favorite": 50
+    "favorite": 50,
+    "tags": ["facebook", "actualité"]
   },
   {
     "id": 108,
@@ -1087,7 +1195,8 @@
     "url": "https://itsocial.fr/enjeux-it/enjeux-production/devops/le-recours-aux-api-augmentera-en-2022/",
     "description": "Le recours aux API augmentera en 2022",
     "avatar": "https://github.com/GratadeJF.png?size=300",
-    "favorite": 49
+    "favorite": 49,
+    "tags": ["api"]
   },
   {
     "id": 109,
@@ -1097,7 +1206,8 @@
     "url": "https://devstory.net/10283/utiliser-github-avec-github-desktop",
     "description": "Utiliser GitHub avec GitHub Desktop",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
-    "favorite": 75
+    "favorite": 75,
+    "tags": ["github", "github desktop"]
   },
   {
     "id": 110,
@@ -1107,7 +1217,8 @@
     "url": "https://medium.com/quick-code/coolest-25-web-design-trends-in-2021-thatll-rock-the-world-388eb1144b7e",
     "description": "Coolest 25+ Web Design Trends In 2021, that’ll rock the world",
     "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-    "favorite": 21
+    "favorite": 21,
+    "tags": ["webdesign"]
   },
   {
     "id": 111,
@@ -1117,7 +1228,8 @@
     "url": "https://www.numerama.com/tech/786817-twitter-assume-navoir-quasiment-pas-de-moderateurs-humains.html",
     "description": "Twitter assume n’avoir quasiment pas de modérateurs humains",
     "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-    "favorite": 75
+    "favorite": 75,
+    "tags": ["twitter", "moderateur"]
   },
   {
     "id": 112,
@@ -1127,7 +1239,8 @@
     "url": "https://cult.honeypot.io/reads/20-vs-code-shortcuts-developers/",
     "description": "20 VS Code Shortcuts For Pro Developers",
     "avatar": "https://github.com/leopinchon.png?size=300",
-    "favorite": 65
+    "favorite": 65,
+    "tags": ["vsc", "visual studio code", "shortcut"]
   },
   {
     "id": 113,
@@ -1137,7 +1250,8 @@
     "url": "https://www.slate.fr/story/221193/scientifique-invente-ecran-lecher-gouts-saveurs-plats-tele",
     "description": "Un scientifique invente un écran à lécher pour percevoir les goûts de ce que vous regardez",
     "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-    "favorite": 35
+    "favorite": 35,
+    "tags": ["actualité"]
   },
   {
     "id": 114,
@@ -1145,9 +1259,10 @@
     "year": 2022,
     "member": "Yannick",
     "url": "https://www.journaldugeek.com/2022/01/05/sur-tiktok-une-star-de-tele-realite-vend-ses-pets-en-nft/",
-    "description": "Sur TikTok, une star de télé-réalité vend ses pets en NFT ",
-    "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-    "favorite": 200
+    "description": "Sur TikTok, une star de télé-réalité vend ses pets en NFT",
+    "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
+    "favorite": 200,
+    "tags": ["tiktok", "nft", "actualité"]
   },
   {
     "id": 115,
@@ -1157,6 +1272,29 @@
     "url": "https://www.20minutes.fr/high-tech/3211415-20220105-google-paye-apple-sorte-propre-moteur-recherche",
     "description": "Google paye-t-il Apple pour qu’il ne sorte pas son propre moteur de recherche ?",
     "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
-    "favorite": 15
+    "favorite": 15,
+    "tags": ["google", "apple", "moteur de recherche"]
+  },
+  {
+    "id": 116,
+    "week": 1,
+    "year": 2022,
+    "member": "Romain",
+    "url": "https://blog.nicolas.brondin-bernard.com/comment-tester-son-application-web-en-local-sur-son-telephone-localhost/",
+    "description": "Comment tester son application web en local sur son téléphone ?",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
+    "favorite": 15,
+    "tags": ["methode", "developpement"]
+  },
+  {
+    "id": 117,
+    "week": 1,
+    "year": 2022,
+    "member": "Mariem",
+    "url": "https://www.vantajs.com/?effect=birds",
+    "description": "Animated website backgrounds in a few lines of code.",
+    "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
+    "favorite": 25,
+    "tags": ["CSS", "developement", "ui"]
   }
 ]

@@ -6,5 +6,9 @@
   "url": "https://tailwindcss.com/blog/tailwindcss-v3",
   "description": "Tailwind CSS v3.0",
   "avatar": "https://github.com/leopinchon.png?size=300",
-  "favorite": 12
+  "favorite": 12,
+  "tags": [
+    "tailwind",
+    "css"
+  ]
 }

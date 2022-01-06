@@ -6,5 +6,9 @@
   "url": "https://www.lemondeinformatique.fr/actualites/lire-oracle-etudie-la-balance-benefices-risques-de-l-ia-au-travail-85077.html",
   "description": "Oracle étudie la balance bénéfices/risques de l'IA au travail",
   "avatar": "https://github.com/GratadeJF.png?size=300",
-  "favorite": 17
+  "favorite": 17,
+  "tags": [
+    "oracle",
+    "ia"
+  ]
 }

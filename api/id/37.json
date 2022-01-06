@@ -6,5 +6,8 @@
   "url": "https://www.steamdeck.com/fr/",
   "description": "Une puissance de jeu inégalée entre vos mains",
   "avatar": "https://storage.googleapis.com/quest_editor_uploads/9axzF2WJPEBSt0fafpSY8QTqf0gLbEZq.jpg",
-  "favorite": 9
+  "favorite": 9,
+  "tags": [
+    "gaming"
+  ]
 }

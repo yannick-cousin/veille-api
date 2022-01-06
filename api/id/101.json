@@ -6,5 +6,10 @@
   "url": "https://jai-un-pote-dans-la.com/adobe-lance-creative-cloud-express-outil-creation-simple-canva/",
   "description": "Creative Cloud Express, un outil de création aussi simple que Canva !",
   "avatar": "https://github.com/KodackMack.png?size=300",
-  "favorite": 20
+  "favorite": 20,
+  "tags": [
+    "creative cloud express",
+    "cloud",
+    "canva"
+  ]
 }

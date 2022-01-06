@@ -6,5 +6,10 @@
   "url": "https://cult.honeypot.io/reads/20-vs-code-shortcuts-developers/",
   "description": "20 VS Code Shortcuts For Pro Developers",
   "avatar": "https://github.com/leopinchon.png?size=300",
-  "favorite": 65
+  "favorite": 65,
+  "tags": [
+    "vsc",
+    "visual studio code",
+    "shortcut"
+  ]
 }

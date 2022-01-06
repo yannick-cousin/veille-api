@@ -6,5 +6,9 @@
   "url": "https://canaltp.github.io/navitia-playground/",
   "description": "navitia playground",
   "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-  "favorite": 0
+  "favorite": 0,
+  "tags": [
+    "api",
+    "json"
+  ]
 }

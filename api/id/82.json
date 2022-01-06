@@ -6,5 +6,9 @@
   "url": "https://keepa.com/",
   "description": "Keepa - Amazon Price Tracker",
   "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
-  "favorite": 7
+  "favorite": 7,
+  "tags": [
+    "outil",
+    "amazon"
+  ]
 }

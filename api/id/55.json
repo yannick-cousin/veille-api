@@ -6,5 +6,9 @@
   "url": "https://www.journaldugeek.com/2021/11/30/le-kazakhstan-na-plus-delectricite-a-cause-du-bitcoin/",
   "description": "Le Kazakhstan n’a plus d’électricité à cause du Bitcoin",
   "avatar": "https://github.com/Benedct-Laurain.png?size=300",
-  "favorite": 2
+  "favorite": 2,
+  "tags": [
+    "bitcoin",
+    "cryptomonnaie"
+  ]
 }

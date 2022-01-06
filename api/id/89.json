@@ -6,5 +6,10 @@
   "url": "https://korben.info/pixel-art-css.html",
   "description": "Comment faire du pixel art avec de la feuille de styles (CSS) ?",
   "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
-  "favorite": 7
+  "favorite": 7,
+  "tags": [
+    "css",
+    "pixel art",
+    "art"
+  ]
 }

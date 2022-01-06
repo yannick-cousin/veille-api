@@ -4,7 +4,10 @@
   "year": 2021,
   "member": "Lyndia",
   "url": "https://www.linkedin.com/posts/totalinuxsas_les-secrets-ditrium-activity-6808337901374492672-xFZy/",
-  "description": "(1) Publier | LinkedIn",
+  "description": "LinkedIn",
   "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
-  "favorite": 9
+  "favorite": 9,
+  "tags": [
+    "linkedin"
+  ]
 }

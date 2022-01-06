@@ -6,5 +6,9 @@
   "url": "https://pozette.fr/the-box-le-colis-ecolo-reutilisable-un-millier-de-fois/",
   "description": "« The Box », le colis écolo réutilisable 1 000 fois !",
   "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
-  "favorite": 6
+  "favorite": 6,
+  "tags": [
+    "actualité",
+    "ecologie"
+  ]
 }

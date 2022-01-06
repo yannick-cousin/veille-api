@@ -6,5 +6,9 @@
   "url": "https://www.youtube.com/watch?v=WSx8tcGow88",
   "description": "Quel pays code le mieux ? Même mission pour 7 dev sur Fiverr - Youtube",
   "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
-  "favorite": 5
+  "favorite": 5,
+  "tags": [
+    "youtube",
+    "fiverr"
+  ]
 }

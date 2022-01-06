@@ -6,5 +6,9 @@
   "url": "https://devstory.net/10283/utiliser-github-avec-github-desktop",
   "description": "Utiliser GitHub avec GitHub Desktop",
   "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
-  "favorite": 75
+  "favorite": 75,
+  "tags": [
+    "github",
+    "github desktop"
+  ]
 }

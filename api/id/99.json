@@ -6,5 +6,10 @@
   "url": "https://www.clubic.com/pro/entreprises/microsoft/dossier-397605-d-internet-explorer-a-edge-microsoft-et-la-strategie-anticoncurrentielle.html",
   "description": "D'Internet Explorer à Edge : pourquoi Microsoft force toujours pour que vous utilisiez son navigateur ?",
   "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
-  "favorite": 1
+  "favorite": 1,
+  "tags": [
+    "internet explorer",
+    "edge",
+    "navigateur"
+  ]
 }
