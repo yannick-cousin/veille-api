@@ -2,14 +2,14 @@
   {
       "id": 0,
       "name": "Anouchka",
-      "admin": false,
+      "admin": true,
       "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
       "rank": 0
   },
   {
       "id": 1,
       "name": "Vlad",
-      "admin": false,
+      "admin": true,
       "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
       "rank": 0
   },
