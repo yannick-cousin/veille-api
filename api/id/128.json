@@ -1,0 +1,14 @@
+{
+  "id": 128,
+  "week": 1,
+  "year": 2022,
+  "member": "Julien",
+  "url": "https://fjolt.com/article/javascript-pipeline-operators",
+  "description": "Future Javascript: Javascript Pipeline Operators",
+  "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
+  "favorite": 45,
+  "tags": [
+    "JS",
+    "pipeline"
+  ]
+}

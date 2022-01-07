@@ -1362,5 +1362,93 @@
     "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
     "favorite": 65,
     "tags": ["ui"]
+  },
+  {
+    "id": 124,
+    "week": 1,
+    "year": 2022,
+    "member": "Vlad",
+    "url": "https://www.melty.fr/cyberpunk-2077-des-fuites-evoquent-une-refonte-du-jeu-le-dlc-gratuit-et-la-version-next-gen-a781961.html",
+    "description": "Cyberpunk 2077 : Des fuites évoquent une refonte du jeu, le DLC gratuit & la version next gen",
+    "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
+    "favorite": 54,
+    "tags": ["jeu", "cyberpunk 2077"]
+  },
+  {
+    "id": 125,
+    "week": 1,
+    "year": 2022,
+    "member": "Thomas",
+    "url": "https://www.youtube.com/c/LeDesignerduWeb/playlists",
+    "description": "Le Designer du Web - YouTube",
+    "avatar": "https://github.com/MunschThomas.png?size=300",
+    "favorite": 2,
+    "tags": ["youtube", "tutoriel", "webdesign"]
+  },
+  {
+    "id": 126,
+    "week": 1,
+    "year": 2022,
+    "member": "Romain",
+    "url": "https://dev.to/search?q=css%20button",
+    "description": "Search Results for css button - DEV Community",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
+    "favorite": 3,
+    "tags": ["CSS", "developement", "ui"]
+  },
+  {
+    "id": 127,
+    "week": 1,
+    "year": 2022,
+    "member": "Mickaël",
+    "url": "https://www.theverge.com/2022/1/5/22868777/everdrone-drone-defibrillator-health-tech-sweden",
+    "description": "Drone carrying a defibrillator saves its first heart attack patient in Sweden",
+    "avatar": "https://www.gravatar.com/avatar/40224?d=robohash&s=300",
+    "favorite": 35,
+    "tags": ["drone"]
+  },
+  {
+    "id": 128,
+    "week": 1,
+    "year": 2022,
+    "member": "Julien",
+    "url": "https://fjolt.com/article/javascript-pipeline-operators",
+    "description": "Future Javascript: Javascript Pipeline Operators",
+    "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
+    "favorite": 45,
+    "tags": ["JS", "pipeline"]
+  },
+  {
+    "id": 129,
+    "week": 1,
+    "year": 2022,
+    "member": "Mathias",
+    "url": "https://www.lemondeinformatique.fr/actualites/lire-radiographie-de-la-nebuleuse-javascript-en-2020-81688.html",
+    "description": "Radiographie de la nébuleuse JavaScript en 2020",
+    "avatar": "https://www.gravatar.com/avatar/45763?d=identicon&s=300",
+    "favorite": 23,
+    "tags": ["langages", "JS", "React", "GraphQL"]
+  },
+  {
+    "id": 130,
+    "week": 1,
+    "year": 2022,
+    "member": "Abdou",
+    "url": "https://dev.to/elijahtrillionz/you-dont-need-to-learn-reactjs-now-2an",
+    "description": "You Don't Need To Learn ReactJS Now",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
+    "favorite": 24,
+    "tags": ["React"]
+  },
+  {
+    "id": 131,
+    "week": 1,
+    "year": 2022,
+    "member": "Abdou",
+    "url": "https://blog.damiandemasi.com/using-notion-to-organise-programming-topics",
+    "description": "Using Notion to organise programming topics",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
+    "favorite": 45,
+    "tags": ["organisation"]
   }
 ]
