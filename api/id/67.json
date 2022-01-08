@@ -2,14 +2,13 @@
   "id": 67,
   "week": 49,
   "year": 2021,
-  "member": "Yann",
-  "url": "https://excel.developpez.com/actu/328546/Microsoft-apporte-JavaScript-a-Excel-par-l-intermediaire-d-une-nouvelle-API-pour-permettre-aux-developpeurs-de-creer-des-types-de-donnees-personnalises-dans-Excel/",
-  "description": "Microsoft apporte JavaScript à Excel par l'intermédiaire d'une nouvelle API",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
-  "favorite": 7,
+  "member": "Thomas",
+  "url": "https://devdocs.io/",
+  "description": "DevDocs combines multiple API documentations in a fast, organized, and searchable interface.",
+  "avatar": "https://github.com/MunschThomas.png?size=300",
+  "favorite": 8,
   "tags": [
-    "javascript",
-    "excel",
-    "api"
+    "api",
+    "devdocs"
   ]
 }

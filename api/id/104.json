@@ -2,14 +2,12 @@
   "id": 104,
   "week": 50,
   "year": 2021,
-  "member": "Mathias",
-  "url": "https://mui.com/",
-  "description": "The React UI library you always wanted",
-  "avatar": "https://www.gravatar.com/avatar/45763?d=identicon&s=300",
+  "member": "Abdou",
+  "url": "https://theuselessweb.com/",
+  "description": "TAKE ME TO A USELESS WEBSITE",
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
   "favorite": 0,
   "tags": [
-    "react",
-    "ui",
-    "library"
+    "useless"
   ]
 }

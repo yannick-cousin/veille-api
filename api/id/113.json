@@ -2,12 +2,15 @@
   "id": 113,
   "week": 1,
   "year": 2022,
-  "member": "Anouchka",
-  "url": "https://www.slate.fr/story/221193/scientifique-invente-ecran-lecher-gouts-saveurs-plats-tele",
-  "description": "Un scientifique invente un écran à lécher pour percevoir les goûts de ce que vous regardez",
-  "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-  "favorite": 35,
+  "member": "Yannick",
+  "url": "https://www.journaldugeek.com/2022/01/05/sur-tiktok-une-star-de-tele-realite-vend-ses-pets-en-nft/",
+  "description": "Sur TikTok, une star de télé-réalité vend ses pets en NFT",
+  "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
+  "favorite": 200,
   "tags": [
-    "actualité"
+    "tiktok",
+    "nft",
+    "actualité",
+    "télé-réalité"
   ]
 }

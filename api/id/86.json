@@ -2,13 +2,17 @@
   "id": 86,
   "week": 50,
   "year": 2021,
-  "member": "Clara",
-  "url": "https://www.pantone.com/eu/fr/color-of-the-year-2022",
-  "description": "Annonce de la Pantone Color of the Year 2022",
-  "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-  "favorite": 57,
+  "member": "Yann",
+  "url": "https://dev.to/dom_the_dev/how-to-use-the-spotify-api-in-your-react-js-app-50pn",
+  "description": "How to use the Spotify API In Your React JS App",
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
+  "favorite": 6,
   "tags": [
-    "couleur",
-    "actualite"
+    "api",
+    "js",
+    "javascript",
+    "spotify",
+    "musique",
+    "music"
   ]
 }

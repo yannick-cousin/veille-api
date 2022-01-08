@@ -2,13 +2,14 @@
   "id": 65,
   "week": 49,
   "year": 2021,
-  "member": "Mariem",
-  "url": "https://blog.bitsrc.io/google-chrome-experimental-features-for-developers-a9a7cc9d1b30",
-  "description": "Google Chrome Hidden Features Every Developer Should Know",
-  "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-  "favorite": 2,
+  "member": "Clara",
+  "url": "https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/",
+  "description": "A Complete Guide to Dark Mode on the Web",
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
+  "favorite": 1,
   "tags": [
-    "google",
-    "chrome"
+    "dark mode",
+    "css",
+    "tutoriel"
   ]
 }

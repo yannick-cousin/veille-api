@@ -2,14 +2,16 @@
   "id": 84,
   "week": 50,
   "year": 2021,
-  "member": "Yorgan",
-  "url": "https://www.commentcoder.com/themes-vs-code/",
-  "description": "19 Thèmes Visual Studio Code pour 2022",
+  "member": "Mariem",
+  "url": "https://dev.to/0shuvo0/i-made-squid-game-with-javascript-10j9",
+  "description": "I made Squid Game with JavaScript",
   "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-  "favorite": 2,
+  "favorite": 14,
   "tags": [
-    "vsc",
-    "visual studio code",
-    "theme"
+    "série",
+    "squid game",
+    "gaming",
+    "javascript",
+    "js"
   ]
 }

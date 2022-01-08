@@ -2,12 +2,14 @@
   "id": 79,
   "week": 49,
   "year": 2021,
-  "member": "Céline",
-  "url": "https://www.usine-digitale.fr/article/avec-monfranceconnect-vous-pouvez-desormais-acceder-aux-donnees-que-les-administrations-ont-sur-vous.N1165037",
-  "description": "Avec MonFranceConnect, vous pouvez désormais accéder aux données que les administrations ont sur vous",
+  "member": "lyndia",
+  "url": "https://www.lefigaro.fr/medias/viginum-pourra-surveiller-nos-publications-sur-les-reseaux-sociaux-20211210",
+  "description": "Ingérence numérique : l'agence d'État Viginum pourra surveiller nos publications sur les réseaux sociaux",
   "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
-  "favorite": 4,
+  "favorite": 2,
   "tags": [
-    "monfranceconnect"
+    "viginum",
+    "le figaro",
+    "réseaux sociaux"
   ]
 }

@@ -2,13 +2,13 @@
   "id": 72,
   "week": 49,
   "year": 2021,
-  "member": "Jean-François",
-  "url": "https://www.usine-digitale.fr/editorial/bruxelles-injecte-1-98-milliard-d-euros-dans-l-europe-numerique.N1159387",
-  "description": "Bruxelles injectera 1,98 milliard d'euros dans \"l'Europe numérique\" en 2022",
-  "avatar": "https://github.com/GratadeJF.png?size=300",
-  "favorite": 24,
+  "member": "Léo",
+  "url": "https://www.bram.us/2021/02/23/the-future-of-css-scroll-linked-animations-part-1/?ref=designcourseyoutubechannel",
+  "description": "The Future of CSS: Scroll-Linked Animations with @scroll-timeline",
+  "avatar": "https://github.com/leopinchon.png?size=300",
+  "favorite": 8,
   "tags": [
-    "actualité",
-    "belgique"
+    "css",
+    "feature"
   ]
 }

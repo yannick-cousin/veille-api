@@ -2,13 +2,13 @@
   "id": 78,
   "week": 49,
   "year": 2021,
-  "member": "Déo",
-  "url": "https://www.cnetfrance.fr/news/nft-voila-pourquoi-des-acheteurs-depensent-des-millions-pour-des-jpeg-39933497.htm",
-  "description": "NFT : voilà pourquoi des acheteurs dépensent des millions pour des JPEG",
-  "avatar": "https://github.com/KodackMack.png?size=300",
-  "favorite": 6,
+  "member": "Céline",
+  "url": "https://www.usine-digitale.fr/article/avec-monfranceconnect-vous-pouvez-desormais-acceder-aux-donnees-que-les-administrations-ont-sur-vous.N1165037",
+  "description": "Avec MonFranceConnect, vous pouvez désormais accéder aux données que les administrations ont sur vous",
+  "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
+  "favorite": 4,
   "tags": [
-    "nft",
-    "cryptomonnaie"
+    "monfranceconnect",
+    "administration"
   ]
 }

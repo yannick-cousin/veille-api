@@ -2,14 +2,17 @@
   "id": 69,
   "week": 49,
   "year": 2021,
-  "member": "Milhan",
-  "url": "https://www.frandroid.com/marques/google/1148771_les-smartphones-pixel-de-google-ont-desormais-une-nouvelle-fonction-qui-peut-sauver-votre-vie",
-  "description": "Les smartphones Pixel de Google ont désormais une nouvelle fonction qui peut sauver votre vie",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
-  "favorite": 9,
+  "member": "Romain",
+  "url": "https://www.tech2tech.fr/du-wifi-6e-dans-les-box-free-orange-bouygues-et-sfr/",
+  "description": "Du WiFi 6E dans les box Free, Orange, Bouygues et SFR",
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
+  "favorite": 15,
   "tags": [
-    "google",
-    "pixel",
-    "smartphone"
+    "wifi",
+    "free",
+    "orange",
+    "bouygues",
+    "sfr",
+    "frandroid"
   ]
 }

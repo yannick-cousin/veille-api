@@ -2,13 +2,14 @@
   "id": 102,
   "week": 50,
   "year": 2021,
-  "member": "Déo",
-  "url": "https://www.futura-sciences.com/tech/actualites/technologie-bluffant-cette-intelligence-artificielle-transforme-mots-images-95142/",
-  "description": "Bluffant ! Cette Intelligence artificielle transforme les mots en images",
+  "member": "Céline",
+  "url": "https://www.lemondeinformatique.fr/actualites/lire-emploi-it-soignez-les-softskills-85131.html",
+  "description": "Emploi IT : soignez les softskills",
   "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
-  "favorite": 21,
+  "favorite": 1,
   "tags": [
-    "ia",
-    "art"
+    "softskill",
+    "methode",
+    "outil"
   ]
 }

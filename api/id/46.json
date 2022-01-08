@@ -2,14 +2,13 @@
   "id": 46,
   "week": 48,
   "year": 2021,
-  "member": "Clara",
-  "url": "https://jimmylollipop.com/8-ui-ux-tips-about-password-design/",
-  "description": "8 UI/UX tips about password design",
-  "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-  "favorite": 5,
+  "member": "Yann",
+  "url": "https://www.blogdumoderateur.com/linkedin-comment-creer-newsletter/",
+  "description": "Comment créer sa newsletter sur LinkedIn",
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
+  "favorite": 9,
   "tags": [
-    "ux",
-    "ui",
-    "webdesign"
+    "linkedin",
+    "newsletter"
   ]
 }

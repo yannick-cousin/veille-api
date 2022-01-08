@@ -2,13 +2,15 @@
   "id": 45,
   "week": 48,
   "year": 2021,
-  "member": "Mariem",
-  "url": "https://dev.to/dragosnedelcu/how-to-become-a-senior-developer-in-3-simple-steps-gc3",
-  "description": "How To Become A Senior Developer In 3 Simple Steps",
-  "avatar": "https://github.com/mariem31.png?size=300",
-  "favorite": 7,
+  "member": "Clara",
+  "url": "https://jimmylollipop.com/8-ui-ux-tips-about-password-design/",
+  "description": "8 UI/UX tips about password design",
+  "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
+  "favorite": 5,
   "tags": [
-    "formation",
-    "methode"
+    "ux",
+    "ui",
+    "webdesign",
+    "tips"
   ]
 }

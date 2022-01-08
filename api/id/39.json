@@ -2,14 +2,13 @@
   "id": 39,
   "week": 47,
   "year": 2021,
-  "member": "Audrey",
-  "url": "https://www.lemondeinformatique.fr/actualites/lire-premieres-impressions-sur-la-preversion-de-github-copilot-84756.html",
-  "description": "Premières impressions sur la préversion de GitHub Copilot",
-  "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
-  "favorite": 7,
+  "member": "Déo",
+  "url": "https://about.facebook.com/fr/meta/",
+  "description": "Découvrir Meta | Meta",
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/89ogj3FhO8t3or3ke75BDC8sSgQIzBpR.jpeg",
+  "favorite": 9,
   "tags": [
-    "github",
-    "copilot",
-    "outil"
+    "meta",
+    "facebook"
   ]
 }

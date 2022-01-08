@@ -2,12 +2,15 @@
   "id": 68,
   "week": 49,
   "year": 2021,
-  "member": "Thomas",
-  "url": "https://devdocs.io/",
-  "description": "DevDocs combines multiple API documentations in a fast, organized, and searchable interface.",
-  "avatar": "https://github.com/MunschThomas.png?size=300",
-  "favorite": 8,
+  "member": "Milhan",
+  "url": "https://www.frandroid.com/marques/google/1148771_les-smartphones-pixel-de-google-ont-desormais-une-nouvelle-fonction-qui-peut-sauver-votre-vie",
+  "description": "Les smartphones Pixel de Google ont désormais une nouvelle fonction qui peut sauver votre vie",
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
+  "favorite": 9,
   "tags": [
-    "api"
+    "google",
+    "pixel",
+    "hardware",
+    "smartphone"
   ]
 }

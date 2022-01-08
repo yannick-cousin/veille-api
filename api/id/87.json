@@ -2,15 +2,15 @@
   "id": 87,
   "week": 50,
   "year": 2021,
-  "member": "Yann",
-  "url": "https://dev.to/dom_the_dev/how-to-use-the-spotify-api-in-your-react-js-app-50pn",
-  "description": "How to use the Spotify API In Your React JS App",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
-  "favorite": 6,
+  "member": "Thomas",
+  "url": "https://react-hook-form.com/",
+  "description": "React Hook Form - Simple React forms validation",
+  "avatar": "https://github.com/MunschThomas.png?size=300",
+  "favorite": 2,
   "tags": [
-    "api",
-    "js",
+    "react",
     "javascript",
-    "spotify"
+    "js",
+    "hook"
   ]
 }

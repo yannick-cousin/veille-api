@@ -2,12 +2,14 @@
   "id": 73,
   "week": 49,
   "year": 2021,
-  "member": "Léo",
-  "url": "https://www.bram.us/2021/02/23/the-future-of-css-scroll-linked-animations-part-1/?ref=designcourseyoutubechannel",
-  "description": "The Future of CSS: Scroll-Linked Animations with @scroll-timeline",
-  "avatar": "https://github.com/leopinchon.png?size=300",
-  "favorite": 8,
+  "member": "Bénédicte",
+  "url": "https://www.journaldugeek.com/2021/12/07/la-puce-de-neuralink-pourrait-etre-testee-sur-des-humains-en-2022/",
+  "description": "La puce de Neuralink pourrait être testée sur des humains en 2022",
+  "avatar": "https://github.com/Benedct-Laurain.png?size=300",
+  "favorite": 7,
   "tags": [
-    "css"
+    "neuralink",
+    "elon musk",
+    "cyberpunk"
   ]
 }

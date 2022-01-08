@@ -2,13 +2,14 @@
   "id": 111,
   "week": 1,
   "year": 2022,
-  "member": "Yannick",
-  "url": "https://www.numerama.com/tech/786817-twitter-assume-navoir-quasiment-pas-de-moderateurs-humains.html",
-  "description": "Twitter assume n’avoir quasiment pas de modérateurs humains",
-  "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-  "favorite": 75,
+  "member": "Léo",
+  "url": "https://cult.honeypot.io/reads/20-vs-code-shortcuts-developers/",
+  "description": "20 VS Code Shortcuts For Pro Developers",
+  "avatar": "https://github.com/leopinchon.png?size=300",
+  "favorite": 65,
   "tags": [
-    "twitter",
-    "moderateur"
+    "vsc",
+    "visual studio code",
+    "shortcut"
   ]
 }

@@ -2,14 +2,19 @@
   "id": 89,
   "week": 50,
   "year": 2021,
-  "member": "Milhan",
-  "url": "https://korben.info/pixel-art-css.html",
-  "description": "Comment faire du pixel art avec de la feuille de styles (CSS) ?",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
-  "favorite": 7,
+  "member": "Romain",
+  "url": "https://www.frandroid.com/marques/sony/675299_comment-connecter-manette-ps4-pc",
+  "description": "Comment jouer avec une manette PS4 sur PC, en Bluetooth ou filaire",
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
+  "favorite": 2,
   "tags": [
-    "css",
-    "pixel art",
-    "art"
+    "gaming",
+    "ps4",
+    "playstation",
+    "pc",
+    "bluetooth",
+    "windows",
+    "manette",
+    "hardware"
   ]
 }

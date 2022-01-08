@@ -2,15 +2,14 @@
   "id": 129,
   "week": 1,
   "year": 2022,
-  "member": "Mathias",
-  "url": "https://www.lemondeinformatique.fr/actualites/lire-radiographie-de-la-nebuleuse-javascript-en-2020-81688.html",
-  "description": "Radiographie de la nébuleuse JavaScript en 2020",
-  "avatar": "https://www.gravatar.com/avatar/45763?d=identicon&s=300",
-  "favorite": 23,
+  "member": "Abdou",
+  "url": "https://dev.to/elijahtrillionz/you-dont-need-to-learn-reactjs-now-2an",
+  "description": "You Don't Need To Learn ReactJS Now",
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
+  "favorite": 24,
   "tags": [
-    "langages",
-    "JS",
     "React",
-    "GraphQL"
+    "javascript",
+    "js"
   ]
 }

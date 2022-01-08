@@ -2,12 +2,14 @@
   "id": 131,
   "week": 1,
   "year": 2022,
-  "member": "Abdou",
-  "url": "https://blog.damiandemasi.com/using-notion-to-organise-programming-topics",
-  "description": "Using Notion to organise programming topics",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
-  "favorite": 45,
+  "member": "Dorian",
+  "url": "https://www.youtube.com/watch?v=wwYZjeSwtno&list=WL&index=2&t=14s",
+  "description": "C'est la tendance de 2022 ? (Néo Memphis Design)",
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
+  "favorite": 32,
   "tags": [
-    "organisation"
+    "Design",
+    "youtube",
+    "vidéo"
   ]
 }

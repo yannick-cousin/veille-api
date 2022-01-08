@@ -2,17 +2,14 @@
   "id": 90,
   "week": 50,
   "year": 2021,
-  "member": "Romain",
-  "url": "https://www.frandroid.com/marques/sony/675299_comment-connecter-manette-ps4-pc",
-  "description": "Comment jouer avec une manette PS4 sur PC, en Bluetooth ou filaire",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
-  "favorite": 2,
+  "member": "Jean-François",
+  "url": "https://www.lemondeinformatique.fr/actualites/lire-oracle-etudie-la-balance-benefices-risques-de-l-ia-au-travail-85077.html",
+  "description": "Oracle étudie la balance bénéfices/risques de l'IA au travail",
+  "avatar": "https://github.com/GratadeJF.png?size=300",
+  "favorite": 17,
   "tags": [
-    "gaming",
-    "ps4",
-    "playstation",
-    "pc",
-    "bluetooth",
-    "manette"
+    "oracle",
+    "ia",
+    "travail"
   ]
 }

@@ -2,13 +2,15 @@
   "id": 81,
   "week": 49,
   "year": 2021,
-  "member": "Mathias",
-  "url": "https://bennettfeely.com/clippy/",
-  "description": "Clippy — CSS clip-path maker",
-  "avatar": "https://www.gravatar.com/avatar/45763?d=identicon&s=300",
-  "favorite": 4,
+  "member": "Abdou",
+  "url": "https://keepa.com/",
+  "description": "Keepa - Amazon Price Tracker",
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
+  "favorite": 7,
   "tags": [
-    "css",
-    "outil"
+    "outil",
+    "amazon",
+    "bon plan",
+    "bonne affaire"
   ]
 }

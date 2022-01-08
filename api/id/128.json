@@ -2,13 +2,16 @@
   "id": 128,
   "week": 1,
   "year": 2022,
-  "member": "Julien",
-  "url": "https://fjolt.com/article/javascript-pipeline-operators",
-  "description": "Future Javascript: Javascript Pipeline Operators",
-  "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
-  "favorite": 45,
+  "member": "Mathias",
+  "url": "https://www.lemondeinformatique.fr/actualites/lire-radiographie-de-la-nebuleuse-javascript-en-2020-81688.html",
+  "description": "Radiographie de la nébuleuse JavaScript en 2020",
+  "avatar": "https://www.gravatar.com/avatar/45763?d=identicon&s=300",
+  "favorite": 23,
   "tags": [
-    "JS",
-    "pipeline"
+    "langages",
+    "javascript",
+    "js",
+    "React",
+    "GraphQL"
   ]
 }

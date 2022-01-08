@@ -1,14 +1,20 @@
 {
   "id": 82,
-  "week": 49,
+  "week": 50,
   "year": 2021,
-  "member": "Abdou",
-  "url": "https://keepa.com/",
-  "description": "Keepa - Amazon Price Tracker",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
-  "favorite": 7,
+  "member": "Anouchka",
+  "url": "https://pythontutor.com/",
+  "description": "VISUALIZE CODE EXECUTION for Python, Java, C, C++, JavaScript, and Ruby",
+  "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
+  "favorite": 14,
   "tags": [
     "outil",
-    "amazon"
+    "python",
+    "java",
+    "c",
+    "c++",
+    "javascript",
+    "js",
+    "ruby"
   ]
 }

@@ -2,13 +2,14 @@
   "id": 74,
   "week": 49,
   "year": 2021,
-  "member": "Bénédicte",
-  "url": "https://www.journaldugeek.com/2021/12/07/la-puce-de-neuralink-pourrait-etre-testee-sur-des-humains-en-2022/",
-  "description": "La puce de Neuralink pourrait être testée sur des humains en 2022",
-  "avatar": "https://github.com/Benedct-Laurain.png?size=300",
-  "favorite": 7,
+  "member": "Yannick",
+  "url": "https://canaltp.github.io/navitia-playground/",
+  "description": "navitia playground",
+  "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
+  "favorite": 0,
   "tags": [
-    "neuralink",
-    "elon musk"
+    "api",
+    "json",
+    "transports"
   ]
 }
