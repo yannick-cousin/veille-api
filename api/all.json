@@ -129,7 +129,7 @@
     "description": "codeur-pro - YouTube",
     "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
     "favorite": 5,
-    "tags": ["youtube", "coding", "tutoriel", "vidéo"]
+    "tags": ["youtube", "coding", "tutorial", "vidéo"]
   },
   {
     "id": 12,
@@ -140,7 +140,7 @@
     "description": "Le Designer du Web - YouTube",
     "avatar": "https://github.com/leopinchon.png?size=300",
     "favorite": 7,
-    "tags": ["youtube", "webdesign", "vidéo", "tutoriel"]
+    "tags": ["youtube", "webdesign", "vidéo", "tutorial"]
   },
   {
     "id": 13,
@@ -239,7 +239,7 @@
     "description": "Se former en liberté",
     "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
     "favorite": 1,
-    "tags": ["formation", "mooc", "tutoriel"]
+    "tags": ["formation", "mooc", "tutorial"]
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@
     "description": "10 Best Websites for Practising and Perfecting Front-End Development",
     "avatar": "https://github.com/mariem31.png?size=300",
     "favorite": 9,
-    "tags": ["front-end", "javascript", "tutoriel"]
+    "tags": ["front-end", "javascript", "tutorial"]
   },
   {
     "id": 24,
@@ -294,7 +294,7 @@
     "description": "Benjamin Code - Youtube",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
     "favorite": 6,
-    "tags": ["youtube", "webdesign", "vidéo", "tutoriel"]
+    "tags": ["youtube", "webdesign", "vidéo", "tutorial"]
   },
   {
     "id": 27,
@@ -360,7 +360,7 @@
     "description": "RhiGeek - Youtube",
     "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
     "favorite": 5,
-    "tags": ["youtube", "vidéo", "tutoriel"]
+    "tags": ["youtube", "vidéo", "tutorial"]
   },
   {
     "id": 33,
@@ -371,7 +371,7 @@
     "description": "Grafikart.fr - YouTube",
     "avatar": "https://github.com/leopinchon.png?size=300",
     "favorite": 6,
-    "tags": ["youtube", "vidéo", "tutoriel"]
+    "tags": ["youtube", "vidéo", "tutorial"]
   },
   {
     "id": 34,
@@ -492,7 +492,7 @@
     "description": "How To Become A Senior Developer In 3 Simple Steps",
     "avatar": "https://github.com/mariem31.png?size=300",
     "favorite": 7,
-    "tags": ["formation", "tutoriel", "methode"]
+    "tags": ["formation", "tutorial", "methode"]
   },
   {
     "id": 45,
@@ -723,7 +723,7 @@
     "description": "A Complete Guide to Dark Mode on the Web",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
     "favorite": 1,
-    "tags": ["dark mode", "css", "tutoriel"]
+    "tags": ["dark mode", "css", "tutorial"]
   },
   {
     "id": 66,
@@ -1064,7 +1064,7 @@
     "description": "Online Tutorials - Youtube",
     "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
     "favorite": 5,
-    "tags": ["youtube", "vidéo", "tutoriel", "webdesign"]
+    "tags": ["youtube", "vidéo", "tutorial", "webdesign"]
   },
   {
     "id": 97,
@@ -1372,7 +1372,7 @@
     "description": "Le Designer du Web - YouTube",
     "avatar": "https://github.com/MunschThomas.png?size=300",
     "favorite": 2,
-    "tags": ["youtube", "vidéo", "tutoriel", "webdesign"]
+    "tags": ["youtube", "vidéo", "tutorial", "webdesign"]
   },
   {
     "id": 125,
@@ -1482,6 +1482,17 @@
     "description": "A Guide to Responsive CSS Video Background",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
     "favorite": 45,
-    "tags": ["css", "responsive", "vidéo"]
-  }
+    "tags": ["css", "responsive", "vidéo", "background"]
+  },
+  {
+    "id": 135,
+    "week": 2,
+    "year": 2022,
+    "member": "Yannick",
+    "url": "https://www.youtube.com/watch?v=qYG2Jn3gMjc",
+    "description": "How to use VS Code on iPad (Step by Step Instructions with Raspberry Pi) - Youtube",
+    "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
+    "favorite": 75,
+    "tags": ["youtube", "vidéo", "tutorial", "vsc", "visual code studio", "microsoft", "ipad", "ipados", "apple"]
+}
 ]
