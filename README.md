@@ -33,27 +33,33 @@ For comments :
 
 GET all articles as a single JSON object
 
-eg. [`/articles.json`](https://yannick-cousin.github.io/veille-api/api/all.json)
+eg. [`/articles.json`](https://yannick-cousin.github.io/veille-api/api/articles.json)
 
-##### `/id`
+##### `/id-articles`
 
 GET article complete informations by id
 
-eg. [`/id-articles/0.json`](https://yannick-cousin.github.io/veille-api/api/id/1.json)
+eg. [`/id-articles/0.json`](https://yannick-cousin.github.io/veille-api/api/articles-id/1.json)
 
 ```json
 {
   "id": 0,
   "week": 46,
   "year": 2021,
-  "member": "Anouchka",
+  "id_users": 0,
   "url": "https://www.blogdumoderateur.com/classement-langages-populaires-php-sortir-top-10/",
   "description": "Classement des langages populaires : PHP pourrait sortir du top 10, une première en 20 ans",
-  "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-  "favorite": 2,
   "tags": [
-    "langages"
-  ]
+    "langages",
+    "php",
+    "python",
+    "C",
+    "Java",
+    "SQL",
+    "js",
+    "javascript"
+  ],
+  "likes": 20
 }
 ```
 
@@ -61,9 +67,9 @@ eg. [`/id-articles/0.json`](https://yannick-cousin.github.io/veille-api/api/id/1
 
 GET all members as a single JSON object
 
-eg. [`/all.json`](https://yannick-cousin.github.io/veille-api/api/members.json)
+eg. [`/members.json`](https://yannick-cousin.github.io/veille-api/api/members.json)
 
-##### `/id`
+##### `/id-members`
 
 GET member complete informations by id
 
@@ -73,8 +79,52 @@ eg. [`/id-members/0.json`](https://yannick-cousin.github.io/veille-api/api/id-me
 {
   "id": 0,
   "name": "Anouchka",
+  "password": "758708238a32bd492b23714b09afdf45",
   "admin": true,
   "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
   "rank": 0
+}
+```
+
+##### `/favorite.json`
+
+GET all favorite as a single JSON object
+
+eg. [`/favorite.json`](https://yannick-cousin.github.io/veille-api/api/favorite.json)
+
+##### `/id-members`
+
+GET favorite complete informations by id
+
+eg. [`/id-favorite/0.json`](https://yannick-cousin.github.io/veille-api/api/id-favorites/0.json)
+
+```json
+{
+  "id": 0,
+  "id_article": 1,
+  "id_user": 2
+}
+```
+
+##### `/comments.json`
+
+GET all comments as a single JSON object
+
+eg. [`/comments.json`](https://yannick-cousin.github.io/veille-api/api/comments.json)
+
+##### `/id-comments`
+
+GET favorite complete informations by id
+
+eg. [`/id-comments/0.json`](https://yannick-cousin.github.io/veille-api/api/id-comments/0.json)
+
+```json
+{
+  "id": 0,
+  "id_user": 10,
+  "id_article": 2,
+  "comment": "Pas terrible cet article",
+  "date": "12/14/21",
+  "likes": 2
 }
 ```
