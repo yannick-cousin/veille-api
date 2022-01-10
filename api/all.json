@@ -1494,5 +1494,16 @@
     "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
     "favorite": 75,
     "tags": ["youtube", "vidéo", "tutorial", "vsc", "visual code studio", "raspberry pi", "microsoft", "ipad", "ipados", "apple"]
+  },
+  {
+    "id": 136,
+    "week": 2,
+    "year": 2022,
+    "member": "Déo",
+    "url": "https://www.futura-sciences.com/tech/actualites/objets-connectes-cette-bague-connectee-peut-mesurer-plus-140-parametres-physiques-95906/",
+    "description": "Cette bague connectée peut mesurer plus de 140 paramètres physiques",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/89ogj3FhO8t3or3ke75BDC8sSgQIzBpR.jpeg",
+    "favorite": 12,
+    "tags": ["bague", "santé"]
   }
 ]
