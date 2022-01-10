@@ -2,14 +2,13 @@
   "id": 44,
   "week": 48,
   "year": 2021,
-  "member": "Vlad",
-  "url": "https://www.sudouest.fr/youtube-l-auteur-de-la-toute-premiere-video-n-aime-pas-la-suppression-du-dislike-et-veut-le-faire-savoir-7011888.php",
-  "description": "Youtube : l’auteur de la toute première vidéo n’aime pas la suppression du 'dislike' et veut le faire savoir",
-  "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-  "favorite": 9,
+  "id_users": 3,
+  "url": "https://dev.to/dragosnedelcu/how-to-become-a-senior-developer-in-3-simple-steps-gc3",
+  "description": "How To Become A Senior Developer In 3 Simple Steps",
   "tags": [
-    "youtube",
-    "actualité",
-    "drama"
-  ]
+    "formation",
+    "tutoriel",
+    "methode"
+  ],
+  "likes": 7
 }

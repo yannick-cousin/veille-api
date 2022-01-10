@@ -2,12 +2,13 @@
   "id": 50,
   "week": 48,
   "year": 2021,
-  "member": "Romain",
-  "url": "https://korben.info/facebook-delete.html",
-  "description": "Un outil pour supprimer rapidement le contenu Facebook que vous n’assumez pas",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
-  "favorite": 7,
+  "id_users": 9,
+  "url": "https://korben.info/cookie-factory.html",
+  "description": "Incarnez la personne de vos rêves et trompez les algos avec la #CookieFactory",
   "tags": [
-    "facebook"
-  ]
+    "outil",
+    "cookie",
+    "tracking"
+  ],
+  "likes": 6
 }

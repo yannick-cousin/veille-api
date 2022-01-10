@@ -2,13 +2,13 @@
   "id": 40,
   "week": 47,
   "year": 2021,
-  "member": "Déo",
-  "url": "https://about.facebook.com/fr/meta/",
-  "description": "Découvrir Meta | Meta",
-  "avatar": "https://github.com/KodackMack.png?size=300",
-  "favorite": 9,
+  "id_users": 19,
+  "url": "https://lemag.digitools.io/MagDigital/marketing-ameliorer-votre-veille-informationnelle/",
+  "description": "Quelles méthodes et outils pour organiser sa veille informationnelle digitale en 2020 ?",
   "tags": [
-    "meta",
-    "facebook"
-  ]
+    "veille",
+    "outil",
+    "methode"
+  ],
+  "likes": 5
 }

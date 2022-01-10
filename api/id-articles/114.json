@@ -2,14 +2,13 @@
   "id": 114,
   "week": 1,
   "year": 2022,
-  "member": "Yannick",
-  "url": "https://www.journaldugeek.com/2022/01/05/sur-tiktok-une-star-de-tele-realite-vend-ses-pets-en-nft/",
-  "description": "Sur TikTok, une star de télé-réalité vend ses pets en NFT",
-  "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-  "favorite": 200,
+  "id_users": 11,
+  "url": "https://www.20minutes.fr/high-tech/3211415-20220105-google-paye-apple-sorte-propre-moteur-recherche",
+  "description": "Google paye-t-il Apple pour qu’il ne sorte pas son propre moteur de recherche ?",
   "tags": [
-    "tiktok",
-    "nft",
-    "actualité"
-  ]
+    "google",
+    "apple",
+    "moteur de recherche"
+  ],
+  "likes": 15
 }

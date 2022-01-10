@@ -2,14 +2,13 @@
   "id": 117,
   "week": 1,
   "year": 2022,
-  "member": "Mariem",
-  "url": "https://www.vantajs.com/?effect=birds",
-  "description": "Animated website backgrounds in a few lines of code.",
-  "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-  "favorite": 25,
+  "id_users": 2,
+  "url": "https://www.journaldugeek.com/2021/12/28/un-homme-paralyse-a-poste-son-tout-premier-tweet-grace-a-une-puce-cerebrale/",
+  "description": "Un homme paralysé a posté son tout premier tweet grâce à une puce cérébrale ",
   "tags": [
-    "CSS",
-    "developement",
-    "ui"
-  ]
+    "Science",
+    "Neuroscience",
+    "twitter"
+  ],
+  "likes": 7
 }

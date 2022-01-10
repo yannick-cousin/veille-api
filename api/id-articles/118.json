@@ -2,13 +2,11 @@
   "id": 118,
   "week": 1,
   "year": 2022,
-  "member": "Yorgan",
-  "url": "https://www.journaldugeek.com/2021/12/28/un-homme-paralyse-a-poste-son-tout-premier-tweet-grace-a-une-puce-cerebrale/",
-  "description": "Un homme paralysé a posté son tout premier tweet grâce à une puce cérébrale ",
-  "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-  "favorite": 7,
+  "id_users": 8,
+  "url": "https://backgroundchecks.org/justdeleteme/",
+  "description": "A directory of direct links to delete your account from web services.",
   "tags": [
-    "Science",
-    "Neuroscience"
-  ]
+    "Réseaux sociaux"
+  ],
+  "likes": 47
 }

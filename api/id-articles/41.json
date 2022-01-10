@@ -2,14 +2,12 @@
   "id": 41,
   "week": 47,
   "year": 2021,
-  "member": "Lyndia",
-  "url": "https://lemag.digitools.io/MagDigital/marketing-ameliorer-votre-veille-informationnelle/",
-  "description": "Quelles méthodes et outils pour organiser sa veille informationnelle digitale en 2020 ?",
-  "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
-  "favorite": 5,
+  "id_users": 20,
+  "url": "https://www.youtube.com/watch?v=WSx8tcGow88",
+  "description": "Quel pays code le mieux ? Même mission pour 7 dev sur Fiverr - Youtube",
   "tags": [
-    "veille",
-    "outil",
-    "methode"
-  ]
+    "youtube",
+    "fiverr"
+  ],
+  "likes": 5
 }

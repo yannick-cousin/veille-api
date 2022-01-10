@@ -1,14 +1,15 @@
 {
   "id": 133,
-  "week": 1,
+  "week": 2,
   "year": 2022,
-  "member": "Déo",
-  "url": "https://www.futura-sciences.com/tech/actualites/technologie-japon-invente-ecran-lechable-95758/",
-  "description": "Le Japon a inventé un écran léchable",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/89ogj3FhO8t3or3ke75BDC8sSgQIzBpR.jpeg",
-  "favorite": 14,
+  "id_users": 8,
+  "url": "https://www.blogdumoderateur.com/bitburner-jeu-gratuit-apprendre-coder-javascript/",
+  "description": "Bitburner, un jeu gratuit pour apprendre à coder en JavaScript",
   "tags": [
-    "japon",
-    "écran"
-  ]
+    "gaming",
+    "js",
+    "javascript",
+    "learn"
+  ],
+  "likes": 54
 }

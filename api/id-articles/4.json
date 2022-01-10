@@ -2,13 +2,12 @@
   "id": 4,
   "week": 46,
   "year": 2021,
-  "member": "Clara",
+  "id_users": 4,
   "url": "https://open.spotify.com/episode/02kCcYFl80BacEHAq17g8c?si=81b1426709294f4c",
   "description": "L'homme qui avait la formule mathématique des bonnes histoires - Le code a changé | Podcast sur Spotify",
-  "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-  "favorite": 2,
   "tags": [
     "spotify",
     "podcast"
-  ]
+  ],
+  "likes": 2
 }

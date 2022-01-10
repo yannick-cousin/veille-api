@@ -10,28 +10,36 @@ Veille  open-source REST API
 
 For articles :
 
-- [`/all.json`](https://yannick-cousin.github.io/veille-api/api/all.json)
-- [`/id`](https://yannick-cousin.github.io/veille-api/api/id/0.json)
+- [`/articles.json`](https://yannick-cousin.github.io/veille-api/api/all.json)
+- [`/id-articles`](https://yannick-cousin.github.io/veille-api/api/id/0.json)
 
 For members :
 - [`/members.json`](https://yannick-cousin.github.io/veille-api/api/members.json)
-- [`/id`](https://yannick-cousin.github.io/veille-api/api/id-members/0.json)
+- [`/id-members`](https://yannick-cousin.github.io/veille-api/api/id-members/0.json)
+
+For favorite :
+- - [`/favorite.json`](https://yannick-cousin.github.io/veille-api/api/favorite.json)
+- [`/id-favorite`](https://yannick-cousin.github.io/veille-api/api/id-favorite/0.json)
+
+For comments :
+- - [`/comments.json`](https://yannick-cousin.github.io/veille-api/api/comments.json)
+- [`/id-members`](https://yannick-cousin.github.io/veille-api/api/id-comments/0.json)
 
 ---
 
 ## Routes
 
-##### `/all.json`
+##### `/articles.json`
 
 GET all articles as a single JSON object
 
-eg. [`/all.json`](https://yannick-cousin.github.io/veille-api/api/all.json)
+eg. [`/articles.json`](https://yannick-cousin.github.io/veille-api/api/all.json)
 
 ##### `/id`
 
 GET article complete informations by id
 
-eg. [`/id/0.json`](https://yannick-cousin.github.io/veille-api/api/id/1.json)
+eg. [`/id-articles/0.json`](https://yannick-cousin.github.io/veille-api/api/id/1.json)
 
 ```json
 {

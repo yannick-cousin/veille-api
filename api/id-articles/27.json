@@ -2,12 +2,13 @@
   "id": 27,
   "week": 47,
   "year": 2021,
-  "member": "Yann",
+  "id_users": 6,
   "url": "https://dev.to/simonpaix/7-useful-html-attributes-you-may-not-know-7mn",
   "description": "7 useful HTML attributes you may not know",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
-  "favorite": 4,
   "tags": [
-    "html"
-  ]
+    "html",
+    "attributes",
+    "balise"
+  ],
+  "likes": 4
 }

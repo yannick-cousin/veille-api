@@ -2,6 +2,7 @@
   {
       "id": 0,
       "name": "Anouchka",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": true,
       "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
       "rank": 0
@@ -9,6 +10,7 @@
   {
       "id": 1,
       "name": "Vlad",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": true,
       "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
       "rank": 0
@@ -16,13 +18,15 @@
   {
       "id": 2,
       "name": "Yorgan",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": false,
       "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-      "rank": 0 
+      "rank": 0
   },
   {
       "id": 3,
       "name": "Mariem",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": false,
       "avatar": "https://github.com/mariem31.png?size=300",
       "rank": 0
@@ -30,6 +34,7 @@
   {
       "id": 4,
       "name": "Clara",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": true,
       "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
       "rank": 0
@@ -37,6 +42,7 @@
   {
       "id": 5,
       "name": "Dorian",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": true,
       "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
       "rank": 0
@@ -44,6 +50,7 @@
   {
       "id": 6,
       "name": "Yann",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": true,
       "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
       "rank": 0
@@ -51,6 +58,7 @@
   {
       "id": 7,
       "name": "Thomas",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": false,
       "avatar": "https://github.com/MunschThomas.png?size=300",
       "rank": 0
@@ -58,13 +66,15 @@
   {
       "id": 8,
       "name": "Milhan",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": false,
       "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
       "rank": 0
   },
   {
       "id": 9,
-      "name": "ROMAIN",
+      "name": "Romain",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": false,
       "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
       "rank": 0
@@ -72,6 +82,7 @@
   {
       "id": 10,
       "name": "Jean-François",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": false,
       "avatar": "https://github.com/GratadeJF.png?size=300",
       "rank": 0
@@ -79,6 +90,7 @@
   {
       "id": 11,
       "name": "Jules",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": false,
       "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
       "rank": 0
@@ -86,6 +98,7 @@
   {
       "id": 12,
       "name": "Léo",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": true,
       "avatar": "https://github.com/leopinchon.png?size=300",
       "rank": 0
@@ -93,6 +106,7 @@
   {
       "id": 13,
       "name": "Bénédicte",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": false,
       "avatar": "https://github.com/Benedct-Laurain.png?size=300",
       "rank": 0
@@ -100,6 +114,7 @@
   {
       "id": 14,
       "name": "Yannick",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": true,
       "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
       "rank": 0
@@ -107,6 +122,7 @@
   {
       "id": 15,
       "name": "Mickaël",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": false,
       "avatar": "https://storage.googleapis.com/quest_editor_uploads/9axzF2WJPEBSt0fafpSY8QTqf0gLbEZq.jpg",
       "rank": 0
@@ -114,6 +130,7 @@
   {
       "id": 16,
       "name": "Julien",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": false,
       "avatar": "https://www.gravatar.com/avatar/40224?d=robohash&s=300",
       "rank": 0
@@ -121,6 +138,7 @@
   {
       "id": 17,
       "name": "Audrey",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": false,
       "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
       "rank": 0
@@ -128,13 +146,15 @@
   {
       "id": 18,
       "name": "Déo",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": false,
-      "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
+      "avatar": "https://github.com/KodackMack.png?size=300",
       "rank": 0
   },
   {
       "id": 19,
       "name": "Lyndia",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": false,
       "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
       "rank": 0
@@ -142,6 +162,7 @@
   {
       "id": 20,
       "name": "Abdou",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": true,
       "avatar": "https://storage.googleapis.com/quest_editor_uploads/uS0uf1jlbWw88hpKtkeub5ZGLgcsuWBF.png",
       "rank": 0
@@ -149,6 +170,7 @@
   {
       "id": 21,
       "name": "Céline",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": false,
       "avatar": "https://www.gravatar.com/avatar/38757?d=retro&s=300",
       "rank": 0
@@ -156,6 +178,7 @@
   {
       "id": 22,
       "name": "Matthias",
+      "password": "758708238a32bd492b23714b09afdf45",
       "admin": true,
       "avatar": "https://www.gravatar.com/avatar/45763?d=identicon&s=300",
       "rank": 0

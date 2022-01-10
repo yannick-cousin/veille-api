@@ -2,12 +2,13 @@
   "id": 32,
   "week": 47,
   "year": 2021,
-  "member": "Jules",
+  "id_users": 11,
   "url": "https://www.youtube.com/c/RhiGeek/videos",
   "description": "RhiGeek - Youtube",
-  "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
-  "favorite": 5,
   "tags": [
-    "youtube"
-  ]
+    "youtube",
+    "vidéo",
+    "tutoriel"
+  ],
+  "likes": 5
 }

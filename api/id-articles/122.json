@@ -2,13 +2,11 @@
   "id": 122,
   "week": 1,
   "year": 2022,
-  "member": "Bénédicte",
-  "url": "https://www.webmarketing-com.com/2022/01/05/1696626-top-5-strategies-marketing-tendances-2022",
-  "description": "Top 5 des stratégies marketing tendances en 2022",
-  "avatar": "https://github.com/Benedct-Laurain.png?size=300",
-  "favorite": 25,
+  "id_users": 17,
+  "url": "https://icones8.fr/",
+  "description": "Icônes, illustrations, photos, musique et outils de design",
   "tags": [
-    "marketing",
-    "top"
-  ]
+    "ui"
+  ],
+  "likes": 65
 }

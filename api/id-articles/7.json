@@ -2,12 +2,12 @@
   "id": 7,
   "week": 46,
   "year": 2021,
-  "member": "Thomas",
+  "id_users": 7,
   "url": "https://www.20minutes.fr/high-tech/3175267-20211118-apple-utilisateurs-iphone-vont-pouvoir-reparer-memes-smartphone",
   "description": "Apple : Les utilisateurs d’iPhone vont pouvoir réparer eux-mêmes leur smartphone (20minutes.fr)",
-  "avatar": "https://github.com/MunschThomas.png?size=300",
-  "favorite": 5,
   "tags": [
-    "apple"
-  ]
+    "apple",
+    "iphone"
+  ],
+  "likes": 5
 }

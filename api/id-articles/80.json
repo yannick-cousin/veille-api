@@ -2,13 +2,12 @@
   "id": 80,
   "week": 49,
   "year": 2021,
-  "member": "lyndia",
-  "url": "https://www.lefigaro.fr/medias/viginum-pourra-surveiller-nos-publications-sur-les-reseaux-sociaux-20211210",
-  "description": "Ingérence numérique : l'agence d'État Viginum pourra surveiller nos publications sur les réseaux sociaux",
-  "avatar": "https://www.gravatar.com/avatar/37657?d=monsterid&s=300",
-  "favorite": 2,
+  "id_users": 22,
+  "url": "https://bennettfeely.com/clippy/",
+  "description": "Clippy — CSS clip-path maker",
   "tags": [
-    "viginum",
-    "le figaro"
-  ]
+    "css",
+    "outil"
+  ],
+  "likes": 4
 }

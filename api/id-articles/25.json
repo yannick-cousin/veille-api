@@ -2,12 +2,13 @@
   "id": 25,
   "week": 47,
   "year": 2021,
-  "member": "Clara",
+  "id_users": 4,
   "url": "https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh",
   "description": "Fonts Ninja",
-  "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-  "favorite": 4,
   "tags": [
-    "fonts"
-  ]
+    "fonts",
+    "google",
+    "store"
+  ],
+  "likes": 4
 }

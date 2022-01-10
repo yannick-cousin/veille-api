@@ -2,14 +2,14 @@
   "id": 43,
   "week": 48,
   "year": 2021,
-  "member": "Anouchka",
-  "url": "https://www.docstring.fr/",
-  "description": "Docstring",
-  "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-  "favorite": 5,
+  "id_users": 1,
+  "url": "https://www.sudouest.fr/youtube-l-auteur-de-la-toute-premiere-video-n-aime-pas-la-suppression-du-dislike-et-veut-le-faire-savoir-7011888.php",
+  "description": "Youtube : l’auteur de la toute première vidéo n’aime pas la suppression du 'dislike' et veut le faire savoir",
   "tags": [
-    "formation",
-    "python",
-    "docstring"
-  ]
+    "youtube",
+    "vidéo",
+    "actualité",
+    "drama"
+  ],
+  "likes": 9
 }

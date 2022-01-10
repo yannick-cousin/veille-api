@@ -2,13 +2,12 @@
   "id": 109,
   "week": 1,
   "year": 2022,
-  "member": "Dorian",
-  "url": "https://devstory.net/10283/utiliser-github-avec-github-desktop",
-  "description": "Utiliser GitHub avec GitHub Desktop",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
-  "favorite": 75,
+  "id_users": 4,
+  "url": "https://medium.com/quick-code/coolest-25-web-design-trends-in-2021-thatll-rock-the-world-388eb1144b7e",
+  "description": "Coolest 25+ Web Design Trends In 2021, that’ll rock the world",
   "tags": [
-    "github",
-    "github desktop"
-  ]
+    "webdesign",
+    "css"
+  ],
+  "likes": 21
 }

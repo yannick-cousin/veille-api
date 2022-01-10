@@ -2,15 +2,14 @@
   "id": 5,
   "week": 46,
   "year": 2021,
-  "member": "Dorian",
+  "id_users": 5,
   "url": "https://www.twitch.tv/bastiui",
   "description": "Bastiui - Twitch",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
-  "favorite": 4,
   "tags": [
     "twitch",
     "ux",
     "ui",
     "webdesign"
-  ]
+  ],
+  "likes": 4
 }

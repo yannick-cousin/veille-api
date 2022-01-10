@@ -2,12 +2,13 @@
   "id": 110,
   "week": 1,
   "year": 2022,
-  "member": "Clara",
-  "url": "https://medium.com/quick-code/coolest-25-web-design-trends-in-2021-thatll-rock-the-world-388eb1144b7e",
-  "description": "Coolest 25+ Web Design Trends In 2021, that’ll rock the world",
-  "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
-  "favorite": 21,
+  "id_users": 14,
+  "url": "https://www.numerama.com/tech/786817-twitter-assume-navoir-quasiment-pas-de-moderateurs-humains.html",
+  "description": "Twitter assume n’avoir quasiment pas de modérateurs humains",
   "tags": [
-    "webdesign"
-  ]
+    "twitter",
+    "moderateur",
+    "modération"
+  ],
+  "likes": 75
 }

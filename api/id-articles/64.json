@@ -2,13 +2,12 @@
   "id": 64,
   "week": 49,
   "year": 2021,
-  "member": "Yorgan",
-  "url": "https://www.clubic.com/pro/entreprises/nvidia/actualite-397674-la-geforce-rtx-2060-12-go-pourrait-elle-detourner-les-mineurs-des-autres-cartes-graphiques.html",
-  "description": "La GeForce RTX 2060 12 Go pourrait-elle détourner les mineurs des autres cartes graphiques ?",
-  "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-  "favorite": 24,
+  "id_users": 3,
+  "url": "https://blog.bitsrc.io/google-chrome-experimental-features-for-developers-a9a7cc9d1b30",
+  "description": "Google Chrome Hidden Features Every Developer Should Know",
   "tags": [
-    "cryptomonnaie",
-    "carte graphique"
-  ]
+    "google",
+    "chrome"
+  ],
+  "likes": 2
 }

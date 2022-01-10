@@ -2,12 +2,13 @@
   "id": 108,
   "week": 1,
   "year": 2022,
-  "member": "Jean-François",
-  "url": "https://itsocial.fr/enjeux-it/enjeux-production/devops/le-recours-aux-api-augmentera-en-2022/",
-  "description": "Le recours aux API augmentera en 2022",
-  "avatar": "https://github.com/GratadeJF.png?size=300",
-  "favorite": 49,
+  "id_users": 5,
+  "url": "https://devstory.net/10283/utiliser-github-avec-github-desktop",
+  "description": "Utiliser GitHub avec GitHub Desktop",
   "tags": [
-    "api"
-  ]
+    "github",
+    "github desktop",
+    "desktop"
+  ],
+  "likes": 75
 }

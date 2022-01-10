@@ -2,14 +2,11 @@
   "id": 112,
   "week": 1,
   "year": 2022,
-  "member": "Léo",
-  "url": "https://cult.honeypot.io/reads/20-vs-code-shortcuts-developers/",
-  "description": "20 VS Code Shortcuts For Pro Developers",
-  "avatar": "https://github.com/leopinchon.png?size=300",
-  "favorite": 65,
+  "id_users": 0,
+  "url": "https://www.slate.fr/story/221193/scientifique-invente-ecran-lecher-gouts-saveurs-plats-tele",
+  "description": "Un scientifique invente un écran à lécher pour percevoir les goûts de ce que vous regardez",
   "tags": [
-    "vsc",
-    "visual studio code",
-    "shortcut"
-  ]
+    "actualité"
+  ],
+  "likes": 35
 }

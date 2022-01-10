@@ -2,12 +2,12 @@
   "id": 22,
   "week": 47,
   "year": 2021,
-  "member": "Vlad",
+  "id_users": 1,
   "url": "https://www.phonandroid.com/google-maps-decouvrez-les-quatre-nouvelles-fonctionnalites-qui-vont-vous-faciliter-la-vie.html",
   "description": "Google Maps : découvrez les quatre nouvelles fonctionnalités qui vont vous faciliter la vie",
-  "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-  "favorite": 0,
   "tags": [
-    "google maps"
-  ]
+    "google",
+    "maps"
+  ],
+  "likes": 0
 }

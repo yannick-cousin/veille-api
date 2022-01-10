@@ -2,13 +2,12 @@
   "id": 107,
   "week": 1,
   "year": 2022,
-  "member": "Yannick",
-  "url": "https://www.liberation.fr/economie/economie-numerique/entre-harcelement-sexuel-et-inconfort-le-metavers-de-facebook-deja-un-lieu-toxique-pour-les-femmes-20211218_KHZVH2YHQNAX7DZ6J7GYWRR6SY/",
-  "description": "Entre harcèlement sexuel et inconfort, le métavers de Facebook déjà un lieu toxique pour les femmes",
-  "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-  "favorite": 50,
+  "id_users": 10,
+  "url": "https://itsocial.fr/enjeux-it/enjeux-production/devops/le-recours-aux-api-augmentera-en-2022/",
+  "description": "Le recours aux API augmentera en 2022",
   "tags": [
-    "facebook",
-    "actualité"
-  ]
+    "api",
+    "2022"
+  ],
+  "likes": 49
 }

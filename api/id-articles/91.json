@@ -2,13 +2,13 @@
   "id": 91,
   "week": 50,
   "year": 2021,
-  "member": "Jean-François",
-  "url": "https://www.lemondeinformatique.fr/actualites/lire-oracle-etudie-la-balance-benefices-risques-de-l-ia-au-travail-85077.html",
-  "description": "Oracle étudie la balance bénéfices/risques de l'IA au travail",
-  "avatar": "https://github.com/GratadeJF.png?size=300",
-  "favorite": 17,
+  "id_users": 11,
+  "url": "https://pozette.fr/the-box-le-colis-ecolo-reutilisable-un-millier-de-fois/",
+  "description": "« The Box », le colis écolo réutilisable 1 000 fois !",
   "tags": [
-    "oracle",
-    "ia"
-  ]
+    "actualité",
+    "ecologie",
+    "colis"
+  ],
+  "likes": 6
 }

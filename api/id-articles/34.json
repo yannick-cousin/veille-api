@@ -2,12 +2,11 @@
   "id": 34,
   "week": 47,
   "year": 2021,
-  "member": "Bénédicte",
+  "id_users": 13,
   "url": "https://www.geek-art.net/",
   "description": "Geek-Art : l'art inspiré par la pop culture !",
-  "avatar": "https://github.com/Benedct-Laurain.png?size=300",
-  "favorite": 8,
   "tags": [
     "art"
-  ]
+  ],
+  "likes": 8
 }

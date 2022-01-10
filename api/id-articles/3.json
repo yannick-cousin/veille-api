@@ -2,12 +2,11 @@
   "id": 3,
   "week": 46,
   "year": 2021,
-  "member": "Mariem",
+  "id_users": 3,
   "url": "https://www.journaldugeek.com/2021/11/05/tencent-presente-a-son-tour-ses-premieres-puces-informatiques/",
   "description": "Tencent présente à son tour ses premières puces informatiques",
-  "avatar": "https://github.com/mariem31.png?size=300",
-  "favorite": 0,
   "tags": [
     "hardware"
-  ]
+  ],
+  "likes": 0
 }

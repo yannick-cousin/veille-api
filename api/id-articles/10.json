@@ -2,13 +2,13 @@
   "id": 10,
   "week": 46,
   "year": 2021,
-  "member": "Jean-François",
+  "id_users": 10,
   "url": "https://www.lefigaro.fr/secteur/high-tech/2019/01/15/32001-20190115ARTFIG00129-tesla-promet-d-offrir-une-model-3-a-qui-saura-hacker-son-systeme-informatique.php",
   "description": "Tesla promet d'offrir une Model 3 à celui qui piratera son système informatique",
-  "avatar": "https://github.com/GratadeJF.png?size=300",
-  "favorite": 4,
   "tags": [
     "tesla",
-    "hacking"
-  ]
+    "hacking",
+    "Model 3"
+  ],
+  "likes": 4
 }

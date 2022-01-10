@@ -2,13 +2,14 @@
   "id": 14,
   "week": 46,
   "year": 2021,
-  "member": "Yannick",
+  "id_users": 14,
   "url": "https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc",
   "description": "The Age of A.I. - YouTube",
-  "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-  "favorite": 7,
   "tags": [
     "youtube",
-    "ia"
-  ]
+    "vidéo",
+    "ia",
+    "série"
+  ],
+  "likes": 7
 }

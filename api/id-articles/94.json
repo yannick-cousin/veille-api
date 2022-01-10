@@ -2,13 +2,14 @@
   "id": 94,
   "week": 50,
   "year": 2021,
-  "member": "Léo",
-  "url": "https://tailwindcss.com/blog/tailwindcss-v3",
-  "description": "Tailwind CSS v3.0",
-  "avatar": "https://github.com/leopinchon.png?size=300",
-  "favorite": 12,
+  "id_users": 13,
+  "url": "https://www.capital.fr/entreprises-marches/metavers-nike-rachete-la-start-up-de-baskets-virtuelles-rtfkt-1422836",
+  "description": "Métavers : Nike rachète la start-up de baskets virtuelles RTFKT",
   "tags": [
-    "tailwind",
-    "css"
-  ]
+    "nike",
+    "metavers",
+    "cryptomonnaie",
+    "nft"
+  ],
+  "likes": 19
 }

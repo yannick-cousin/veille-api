@@ -2,12 +2,12 @@
   "id": 15,
   "week": 46,
   "year": 2021,
-  "member": "Mickaël",
+  "id_users": 15,
   "url": "https://haveibeenpwned.com/",
   "description": "Have I been pwned?",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/9axzF2WJPEBSt0fafpSY8QTqf0gLbEZq.jpg",
-  "favorite": 8,
   "tags": [
-    "hacking"
-  ]
+    "hacking",
+    "password"
+  ],
+  "likes": 8
 }

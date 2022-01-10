@@ -2,13 +2,13 @@
   "id": 36,
   "week": 47,
   "year": 2021,
-  "member": "Yannick",
-  "url": "https://cssgrid-generator.netlify.app/",
-  "description": "CSS Grid Generator",
-  "avatar": "https://www.gravatar.com/avatar/40902?d=robohash&s=300",
-  "favorite": 7,
+  "id_users": 15,
+  "url": "https://www.steamdeck.com/fr/",
+  "description": "Une puissance de jeu inégalée entre vos mains",
   "tags": [
-    "css",
-    "outil"
-  ]
+    "gaming",
+    "console",
+    "steam"
+  ],
+  "likes": 9
 }

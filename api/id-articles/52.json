@@ -2,16 +2,14 @@
   "id": 52,
   "week": 48,
   "year": 2021,
-  "member": "Jean-François",
-  "url": "https://www.electronjs.org/",
-  "description": "Développez des applications desktop multi-plateformes avec JavaScript, HTML et CSS",
-  "avatar": "https://github.com/GratadeJF.png?size=300",
-  "favorite": 18,
+  "id_users": 11,
+  "url": "https://www.20minutes.fr/high-tech/3187591-20211202-matrix-comment-casque-protege-cycliste-signalant-moindres-faits-gestes",
+  "description": "Sécurité à vélo : Matrix, le casque qui protège le cycliste en signalant ses moindres faits et gestes",
   "tags": [
-    "javascript",
-    "html",
-    "css",
-    "methode",
-    "outil"
-  ]
+    "actualité",
+    "matrix",
+    "vélo",
+    "sécurité"
+  ],
+  "likes": 6
 }

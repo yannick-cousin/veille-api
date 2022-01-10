@@ -2,13 +2,12 @@
   "id": 132,
   "week": 1,
   "year": 2022,
-  "member": "Dorian",
-  "url": "https://www.youtube.com/watch?v=wwYZjeSwtno&list=WL&index=2&t=14s",
-  "description": "C'est la tendance de 2022 ? (Néo Memphis Design)",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
-  "favorite": 32,
+  "id_users": 18,
+  "url": "https://www.futura-sciences.com/tech/actualites/technologie-japon-invente-ecran-lechable-95758/",
+  "description": "Le Japon a inventé un écran léchable",
   "tags": [
-    "Design",
-    "youtube"
-  ]
+    "japon",
+    "écran"
+  ],
+  "likes": 14
 }

@@ -2,14 +2,13 @@
   "id": 95,
   "week": 50,
   "year": 2021,
-  "member": "Bénédicte",
-  "url": "https://www.capital.fr/entreprises-marches/metavers-nike-rachete-la-start-up-de-baskets-virtuelles-rtfkt-1422836",
-  "description": "Métavers : Nike rachète la start-up de baskets virtuelles RTFKT",
-  "avatar": "https://github.com/Benedct-Laurain.png?size=300",
-  "favorite": 19,
+  "id_users": 13,
+  "url": "https://www.journaldugeek.com/2021/12/16/jouer-a-sonic-dans-sa-tesla-cest-desormais-possible/",
+  "description": "Jouer à Sonic dans sa Tesla, c’est désormais possible",
   "tags": [
-    "nike",
-    "metavers",
-    "nft"
-  ]
+    "gaming",
+    "tesla",
+    "sonic"
+  ],
+  "likes": 16
 }

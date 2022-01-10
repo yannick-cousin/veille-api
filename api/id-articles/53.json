@@ -2,12 +2,13 @@
   "id": 53,
   "week": 48,
   "year": 2021,
-  "member": "Jules",
-  "url": "https://www.20minutes.fr/high-tech/3187591-20211202-matrix-comment-casque-protege-cycliste-signalant-moindres-faits-gestes",
-  "description": "Sécurité à vélo : Matrix, le casque qui protège le cycliste en signalant ses moindres faits et gestes",
-  "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
-  "favorite": 6,
+  "id_users": 12,
+  "url": "https://dev.to/mahamatmans/array-cheatsheet-javascript-3mci",
+  "description": "Array cheatsheet Javascript",
   "tags": [
-    "actualité"
-  ]
+    "js",
+    "javascript",
+    "array"
+  ],
+  "likes": 2
 }

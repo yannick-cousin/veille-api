@@ -2,15 +2,13 @@
   "id": 59,
   "week": 48,
   "year": 2021,
-  "member": "Déo",
-  "url": "https://www.rtl.fr/actu/sciences-tech/wish-n-est-plus-disponible-sur-iphone-et-bientot-retire-de-google-7900100925",
-  "description": "L'application Wish n'est plus disponible sur iPhone, le site bientôt retiré de Google",
-  "avatar": "https://github.com/KodackMack.png?size=300",
-  "favorite": 5,
+  "id_users": 19,
+  "url": "https://www.lefigaro.fr/medias/viginum-pourra-surveiller-nos-publications-sur-les-reseaux-sociaux-20211210",
+  "description": "Ingérence numérique : l'agence d'État Viginum pourra surveiller nos publications sur les réseaux sociaux",
   "tags": [
-    "google",
-    "google store",
-    "wish",
-    "actualité"
-  ]
+    "figaro",
+    "viginium",
+    "réseaux sociaux"
+  ],
+  "likes": 75
 }

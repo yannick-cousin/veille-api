@@ -2,14 +2,12 @@
   "id": 77,
   "week": 49,
   "year": 2021,
-  "member": "Audrey",
-  "url": "https://www.youtube.com/watch?v=nNpvWBuTfrc",
-  "description": "The Matrix Resurrections – Official Trailer 2",
-  "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
-  "favorite": 8,
+  "id_users": 18,
+  "url": "https://www.cnetfrance.fr/news/nft-voila-pourquoi-des-acheteurs-depensent-des-millions-pour-des-jpeg-39933497.htm",
+  "description": "NFT : voilà pourquoi des acheteurs dépensent des millions pour des JPEG",
   "tags": [
-    "film",
-    "matrix",
-    "youtube"
-  ]
+    "nft",
+    "cryptomonnaie"
+  ],
+  "likes": 6
 }

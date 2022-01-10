@@ -2,12 +2,15 @@
   "id": 54,
   "week": 48,
   "year": 2021,
-  "member": "Léo",
-  "url": "https://dev.to/mahamatmans/array-cheatsheet-javascript-3mci",
-  "description": "Array cheatsheet Javascript",
-  "avatar": "https://github.com/leopinchon.png?size=300",
-  "favorite": 2,
+  "id_users": 13,
+  "url": "https://www.journaldugeek.com/2021/11/30/le-kazakhstan-na-plus-delectricite-a-cause-du-bitcoin/",
+  "description": "Le Kazakhstan n’a plus d’électricité à cause du Bitcoin",
   "tags": [
-    "javascript"
-  ]
+    "Kazakhtan",
+    "électricité",
+    "bitcoin",
+    "mining",
+    "cryptomonnaie"
+  ],
+  "likes": 2
 }

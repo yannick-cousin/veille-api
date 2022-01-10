@@ -2,13 +2,15 @@
   "id": 66,
   "week": 49,
   "year": 2021,
-  "member": "Clara",
-  "url": "https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/",
-  "description": "A Complete Guide to Dark Mode on the Web",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
-  "favorite": 1,
+  "id_users": 6,
+  "url": "https://excel.developpez.com/actu/328546/Microsoft-apporte-JavaScript-a-Excel-par-l-intermediaire-d-une-nouvelle-API-pour-permettre-aux-developpeurs-de-creer-des-types-de-donnees-personnalises-dans-Excel/",
+  "description": "Microsoft apporte JavaScript à Excel par l'intermédiaire d'une nouvelle API",
   "tags": [
-    "dark mode",
-    "css"
-  ]
+    "javascript",
+    "js",
+    "microsoft",
+    "excel",
+    "api"
+  ],
+  "likes": 7
 }

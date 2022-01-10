@@ -2,13 +2,14 @@
   "id": 29,
   "week": 47,
   "year": 2021,
-  "member": "Milhan",
+  "id_users": 8,
   "url": "https://gyazo.com/",
   "description": "Save & Share screen captures instantly.",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
-  "favorite": 6,
   "tags": [
     "outils",
-    "gyazo"
-  ]
+    "gyazo",
+    "capture",
+    "image"
+  ],
+  "likes": 6
 }

@@ -2,13 +2,14 @@
   "id": 12,
   "week": 46,
   "year": 2021,
-  "member": "Léo",
+  "id_users": 12,
   "url": "https://www.youtube.com/c/LeDesignerduWeb",
   "description": "Le Designer du Web - YouTube",
-  "avatar": "https://github.com/leopinchon.png?size=300",
-  "favorite": 7,
   "tags": [
     "youtube",
-    "webdesign"
-  ]
+    "webdesign",
+    "vidéo",
+    "tutoriel"
+  ],
+  "likes": 7
 }

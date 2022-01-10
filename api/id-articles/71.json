@@ -2,13 +2,14 @@
   "id": 71,
   "week": 49,
   "year": 2021,
-  "member": "Romain",
-  "url": "https://www.numerama.com/tech/761530-le-wi-fi-6e-arrive-en-france-et-cest-une-bonne-nouvelle-pour-vos-futurs-equipements-sans-fil.html",
-  "description": "Le Wi-Fi 6E arrive en France et c’est une bonne nouvelle pour vos futurs équipements sans fil",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
-  "favorite": 24,
+  "id_users": 10,
+  "url": "https://www.usine-digitale.fr/editorial/bruxelles-injecte-1-98-milliard-d-euros-dans-l-europe-numerique.N1159387",
+  "description": "Bruxelles injectera 1,98 milliard d'euros dans \"l'Europe numérique\" en 2022",
   "tags": [
-    "wifi",
-    "6e"
-  ]
+    "actualité",
+    "europe",
+    "numérique",
+    "Belgique"
+  ],
+  "likes": 24
 }

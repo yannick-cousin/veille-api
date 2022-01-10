@@ -2,13 +2,14 @@
   "id": 26,
   "week": 47,
   "year": 2021,
-  "member": "Dorian",
+  "id_users": 5,
   "url": "https://www.youtube.com/channel/UCLOAPb7ATQUs_nDs9ViLcMw",
   "description": "Benjamin Code - Youtube",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
-  "favorite": 6,
   "tags": [
     "youtube",
-    "webdesign"
-  ]
+    "webdesign",
+    "vidéo",
+    "tutoriel"
+  ],
+  "likes": 6
 }

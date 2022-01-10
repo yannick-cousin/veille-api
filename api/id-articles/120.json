@@ -2,12 +2,12 @@
   "id": 120,
   "week": 1,
   "year": 2022,
-  "member": "Milhan",
-  "url": "https://lines.chromeexperiments.com/",
-  "description": "Land Lines - Chrome Experiments",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
-  "favorite": 48,
+  "id_users": 8,
+  "url": "https://hypnogram.xyz/",
+  "description": "Generate images from text descriptions",
   "tags": [
-    "chrome"
-  ]
+    "ia",
+    "intelligence artificielle"
+  ],
+  "likes": 47
 }
