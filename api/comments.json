@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "id_user": 10,
+    "id_article": 2,
+    "comment": "Pas terrible cet article",
+    "date": "12/14/21",
+    "likes": 2
+  },
+  {
+    "id": 1,
+    "id_user": 14,
+    "id_article": 112,
+    "comment": "Mais c'est dégeulasse de lécher un écran !!",
+    "date": "1/9/22",
+    "likes": 50
+  },
+  {
+    "id": 2,
+    "id_user": 14,
+    "id_article": 119,
+    "comment": "C'est hypnotisant",
+    "date": "1/9/22",
+    "likes": 10
+  },
+  {
+    "id": 3,
+    "id_user": 14,
+    "id_article": 109,
+    "comment": "Intéressant. Non je rigole, ça ne l'est pas !",
+    "date": "1/9/22",
+    "likes": 15
+  },
+  {
+    "id": 4,
+    "id_user": 14,
+    "id_article": 96,
+    "comment": "Oui, je mets un commentaire sous mes propres propositions",
+    "date": "1/9/22",
+    "likes": 10
+  }
+]

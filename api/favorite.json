@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "id_article": 1,
+    "id_user": 2
+  },
+  {
+    "id": 1,
+    "id_article": 96,
+    "id_user": 14
+  },
+  {
+    "id": 2,
+    "id_article": 81,
+    "id_user": 14
+  },
+  {
+    "id": 3,
+    "id_article": 82,
+    "id_user": 14
+  },
+  {
+    "id": 4,
+    "id_article": 18,
+    "id_user": 14
+  },
+  {
+    "id": 5,
+    "id_article": 35,
+    "id_user": 12
+  },
+  {
+    "id": 6,
+    "id_article": 35,
+    "id_user": 5
+  },
+  {
+    "id": 7,
+    "id_article": 35,
+    "id_user": 20
+  },
+  {
+    "id": 8,
+    "id_article": 105,
+    "id_user": 20
+  }
+]
