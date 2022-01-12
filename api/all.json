@@ -1538,5 +1538,27 @@
     "avatar": "https://cdn.carredartistes.com/products_images/prod_124264/e_36-x-36-cm-carre-d-artistes-f4-front-0.jpg",
     "favorite": 75,
     "tags": ["microsoft", "windows", "disquette"]
+  },
+  {
+    "id": 140,
+    "week": 2,
+    "year": 2022,
+    "member": "Mariem",
+    "url": "https://www.freecodecamp.org/news/free-react-course-2022/",
+    "description": "Free React Course for 2022",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/vPMglsZ3ZOuX3PgNt3hdMDUBFe8L8pMg.jpg",
+    "favorite": 85,
+    "tags": ["React", "2022", "js", "javascript"]
+  },
+  {
+    "id": 141,
+    "week": 2,
+    "year": 2022,
+    "member": "Clara",
+    "url": "https://muz.li/",
+    "description": "Designers' Secret Source",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/7OG1AB4d7xyQSmDJHuAxLyliQtzlqHb6.png",
+    "favorite": 85,
+    "tags": ["ui"]
   }
 ]
