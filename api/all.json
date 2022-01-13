@@ -39,7 +39,7 @@
     "member": "Mariem",
     "url": "https://www.journaldugeek.com/2021/11/05/tencent-presente-a-son-tour-ses-premieres-puces-informatiques/",
     "description": "Tencent présente à son tour ses premières puces informatiques",
-    "avatar": "https://github.com/mariem31.png?size=300",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/vPMglsZ3ZOuX3PgNt3hdMDUBFe8L8pMg.jpg",
     "favorite": 0,
     "tags": ["hardware"]
   },
@@ -259,7 +259,7 @@
     "member": "Mariem",
     "url": "https://javascript.plainenglish.io/10-best-websites-for-practising-and-perfecting-front-end-development-56e382b2c0ac",
     "description": "10 Best Websites for Practising and Perfecting Front-End Development",
-    "avatar": "https://github.com/mariem31.png?size=300",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/vPMglsZ3ZOuX3PgNt3hdMDUBFe8L8pMg.jpg",
     "favorite": 9,
     "tags": ["front-end", "javascript", "tutorial"]
   },
@@ -490,7 +490,7 @@
     "member": "Mariem",
     "url": "https://dev.to/dragosnedelcu/how-to-become-a-senior-developer-in-3-simple-steps-gc3",
     "description": "How To Become A Senior Developer In 3 Simple Steps",
-    "avatar": "https://github.com/mariem31.png?size=300",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/vPMglsZ3ZOuX3PgNt3hdMDUBFe8L8pMg.jpg",
     "favorite": 7,
     "tags": ["formation", "tutorial", "methode"]
   },
@@ -710,7 +710,7 @@
     "member": "Mariem",
     "url": "https://blog.bitsrc.io/google-chrome-experimental-features-for-developers-a9a7cc9d1b30",
     "description": "Google Chrome Hidden Features Every Developer Should Know",
-    "avatar": "https://www.gravatar.com/avatar/39811?d=robohash&s=300",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/vPMglsZ3ZOuX3PgNt3hdMDUBFe8L8pMg.jpg",
     "favorite": 2,
     "tags": ["google", "chrome"]
   },
@@ -930,7 +930,7 @@
     "member": "Mariem",
     "url": "https://dev.to/0shuvo0/i-made-squid-game-with-javascript-10j9",
     "description": "I made Squid Game with JavaScript",
-    "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/vPMglsZ3ZOuX3PgNt3hdMDUBFe8L8pMg.jpg",
     "favorite": 14,
     "tags": ["série", "squid game", "gaming", "javascript", "js"]
   },
@@ -1282,7 +1282,7 @@
     "member": "Mariem",
     "url": "https://www.vantajs.com/?effect=birds",
     "description": "Animated website backgrounds in a few lines of code.",
-    "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/vPMglsZ3ZOuX3PgNt3hdMDUBFe8L8pMg.jpg",
     "favorite": 15,
     "tags": ["css", "developemment", "ui", "background"]
   },
@@ -1604,5 +1604,27 @@
     "avatar": "https://github.com/GratadeJF.png?size=300",
     "favorite": 0,
     "tags": ["veille", "tutorial"]
+  },
+  {
+    "id": 146,
+    "week": 2,
+    "year": 2022,
+    "member": "Vlad",
+    "url": "https://www.phonandroid.com/laustralie-veut-sacrifier-lanonymat-sur-internet-pour-faire-disparaitre-les-trolls.html",
+    "description": "L’Australie veut sacrifier l’anonymat sur Internet pour faire disparaître les trolls",
+    "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
+    "favorite": 0,
+    "tags": ["Australie", "anonymat", "trolls"]
+  },
+  {
+    "id": 147,
+    "week": 2,
+    "year": 2022,
+    "member": "bénédicte",
+    "url": "https://www.webmarketing-com.com/2022/01/13/1696933-balise-tilte-seo-a-faire-a-ne-pas-faire",
+    "description": "Balise tilte en SEO : à faire et à ne pas faire !",
+    "avatar": "https://github.com/Benedct-Laurain.png?size=300",
+    "favorite": 0,
+    "tags": []
   }
 ]
