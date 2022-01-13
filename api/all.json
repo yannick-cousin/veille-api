@@ -1560,5 +1560,16 @@
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/7OG1AB4d7xyQSmDJHuAxLyliQtzlqHb6.png",
     "favorite": 85,
     "tags": ["ui"]
+  },
+  {
+    "id": 142,
+    "week": 2,
+    "year": 2022,
+    "member": "Yann",
+    "url": "https://www.blogdumoderateur.com/linkedin-arrete-messages-prives-sponsorises-europe/",
+    "description": "LinkedIn arrête les messages privés sponsorisés en Europe",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
+    "favorite": 15,
+    "tags": ["LinkedIn"]
   }
 ]
