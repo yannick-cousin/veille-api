@@ -1582,5 +1582,27 @@
     "avatar": "https://github.com/leopinchon.png?size=300",
     "favorite": 15,
     "tags": ["Blog"]
+  },
+  {
+    "id": 144,
+    "week": 2,
+    "year": 2022,
+    "member": "Dorian",
+    "url": "https://www.youtube.com/channel/UCAcAnMF0OrCtUep3Y4M-ZPw",
+    "description": "Hugo Décrypte - Youtube",
+    "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
+    "favorite": 0,
+    "tags": ["youtube", "video"]
+  },
+  {
+    "id": 145,
+    "week": 2,
+    "year": 2022,
+    "member": "Jean-François",
+    "url": "https://www.tech2tech.fr/pourquoi-et-comment-faire-sa-veille-informatique-technologique/",
+    "description": "Pourquoi et comment faire sa veille informatique / technologique ?",
+    "avatar": "https://github.com/GratadeJF.png?size=300",
+    "favorite": 0,
+    "tags": ["veille", "tutorial"]
   }
 ]
