@@ -1591,7 +1591,7 @@
     "url": "https://www.youtube.com/channel/UCAcAnMF0OrCtUep3Y4M-ZPw",
     "description": "Hugo Décrypte - Youtube",
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
-    "favorite": 0,
+    "favorite": 20,
     "tags": ["youtube", "video"]
   },
   {
@@ -1602,7 +1602,7 @@
     "url": "https://www.tech2tech.fr/pourquoi-et-comment-faire-sa-veille-informatique-technologique/",
     "description": "Pourquoi et comment faire sa veille informatique / technologique ?",
     "avatar": "https://github.com/GratadeJF.png?size=300",
-    "favorite": 0,
+    "favorite": 10,
     "tags": ["veille", "tutorial"]
   },
   {
@@ -1613,7 +1613,7 @@
     "url": "https://www.phonandroid.com/laustralie-veut-sacrifier-lanonymat-sur-internet-pour-faire-disparaitre-les-trolls.html",
     "description": "L’Australie veut sacrifier l’anonymat sur Internet pour faire disparaître les trolls",
     "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-    "favorite": 0,
+    "favorite": 60,
     "tags": ["Australie", "anonymat", "trolls"]
   },
   {
@@ -1624,7 +1624,7 @@
     "url": "https://www.webmarketing-com.com/2022/01/13/1696933-balise-tilte-seo-a-faire-a-ne-pas-faire",
     "description": "Balise tilte en SEO : à faire et à ne pas faire !",
     "avatar": "https://github.com/Benedct-Laurain.png?size=300",
-    "favorite": 0,
+    "favorite": 50,
     "tags": []
   },
   {
@@ -1635,7 +1635,7 @@
     "url": "https://fr.ryte.com/wiki/Pixel_espion",
     "description": "Pixel espion",
     "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-    "favorite": 0,
+    "favorite": 80,
     "tags": ["pixel", "espion", "privé"]
   },
   {
@@ -1646,7 +1646,7 @@
     "url": "https://web.developpez.com/actu/330104/Mozilla-s-est-associe-a-la-salle-de-presse-The-Markup-pour-la-chasse-aux-pixels-de-Facebook-afin-de-decouvrir-comment-Meta-suit-les-utilisateurs-sur-le-Web-et-ce-qu-il-fait-des-donnees-collectees/",
     "description": "Mozilla s'est associé à la salle de presse The Markup pour la chasse aux pixels de Facebook",
     "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-    "favorite": 0,
+    "favorite": 80,
     "tags": ["pixel", "espion", "facebook"]
   },
   {
@@ -1657,7 +1657,7 @@
     "url": "https://www.developpez.com/actu/330123/-Il-est-difficile-pour-une-personne-moyenne-de-concevoir-a-quel-point-les-NFT-sont-inutiles-selon-Holden-Shearer-un-concepteur-de-jeux-video/",
     "description": "Il est difficile pour une personne moyenne de concevoir à quel point les NFT sont inutiles",
     "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
-    "favorite": 0,
+    "favorite": 70,
     "tags": ["nft", "cryptomonnaie"]
   }
 ]
