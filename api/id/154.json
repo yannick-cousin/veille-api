@@ -2,15 +2,14 @@
   "id": 154,
   "week": 2,
   "year": 2022,
-  "member": "Thomas",
-  "url": "https://www.youtube.com/watch?v=FDiapbD0Xfg",
-  "description": "CHUNGUS 2 - A very powerful 1Hz Minecraft CPU - Youtube",
-  "avatar": "https://github.com/MunschThomas.png?size=300",
-  "favorite": 15,
+  "member": "Jules",
+  "url": "https://threejs.org/",
+  "description": "Three.js – JavaScript 3D Library",
+  "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
+  "favorite": 10,
   "tags": [
-    "youtube",
-    "CPU",
-    "vidéo",
-    "minecraft"
+    "js",
+    "javascript",
+    "3d"
   ]
 }
