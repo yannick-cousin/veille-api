@@ -1692,5 +1692,16 @@
     "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
     "favorite": 10,
     "tags": ["js", "javascript", "3d"]
+  },
+  {
+    "id": 154,
+    "week": 2,
+    "year": 2022,
+    "member": "Thomas",
+    "url": "https://www.youtube.com/watch?v=FDiapbD0Xfg",
+    "description": "CHUNGUS 2 - A very powerful 1Hz Minecraft CPU - Youtube",
+    "avatar": "https://github.com/MunschThomas.png?size=300",
+    "favorite": 15,
+    "tags": ["youtube", "CPU", "vidéo", "minecraft"]
   }
 ]
