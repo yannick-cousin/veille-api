@@ -7,5 +7,8 @@
   "description": "Balise tilte en SEO : à faire et à ne pas faire !",
   "avatar": "https://github.com/Benedct-Laurain.png?size=300",
   "favorite": 50,
-  "tags": []
+  "tags": [
+    "balise",
+    "title"
+  ]
 }
