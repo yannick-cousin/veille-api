@@ -2,15 +2,15 @@
   "id": 134,
   "week": 2,
   "year": 2022,
-  "member": "Romain",
-  "url": "https://redstapler.co/responsive-css-video-background/",
-  "description": "A Guide to Responsive CSS Video Background",
-  "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
-  "favorite": 45,
+  "member": "Anouchka",
+  "url": "https://web.developpez.com/actu/330104/Mozilla-s-est-associe-a-la-salle-de-presse-The-Markup-pour-la-chasse-aux-pixels-de-Facebook-afin-de-decouvrir-comment-Meta-suit-les-utilisateurs-sur-le-Web-et-ce-qu-il-fait-des-donnees-collectees/",
+  "description": "Mozilla s'est associé à la salle de presse The Markup pour la \"chasse aux pixels de Facebook\"",
+  "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
+  "favorite": 54,
   "tags": [
-    "css",
-    "responsive",
-    "vidéo",
-    "background"
+    "mozilla",
+    "facebook",
+    "pixel",
+    "espion"
   ]
 }

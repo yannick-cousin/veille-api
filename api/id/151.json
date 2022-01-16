@@ -2,13 +2,14 @@
   "id": 151,
   "week": 2,
   "year": 2022,
-  "member": "Yorgan",
-  "url": "https://threejs-journey.com/",
-  "description": "The ultimate Three.js course",
-  "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-  "favorite": 10,
+  "member": "Jules",
+  "url": "https://threejs.org/",
+  "description": "Three.js – JavaScript 3D Library",
+  "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
+  "favorite": 78,
   "tags": [
     "js",
-    "javascript"
+    "javasacript",
+    "3d"
   ]
 }

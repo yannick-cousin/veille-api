@@ -2,15 +2,13 @@
   "id": 155,
   "week": 2,
   "year": 2022,
-  "member": "Thomas",
-  "url": "https://www.youtube.com/watch?v=FDiapbD0Xfg",
-  "description": "CHUNGUS 2 - A very powerful 1Hz Minecraft CPU - Youtube",
-  "avatar": "https://github.com/MunschThomas.png?size=300",
-  "favorite": 15,
+  "member": "Yannick",
+  "url": "https://www.clubic.com/pro/entreprises/microsoft/actualite-403455-microsoft-se-reveille-et-retire-la-disquette-comme-source-principale-du-gestionnaire-de-peripheriques.html",
+  "description": "Microsoft se réveille et retire la disquette comme source principale du gestionnaire de périphériques",
+  "avatar": "https://cdn.carredartistes.com/products_images/prod_124264/e_36-x-36-cm-carre-d-artistes-f4-front-0.jpg",
+  "favorite": 45,
   "tags": [
-    "youtube",
-    "CPU",
-    "vidéo",
-    "minecraft"
+    "windows 11",
+    "microsoft"
   ]
 }

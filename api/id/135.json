@@ -2,21 +2,13 @@
   "id": 135,
   "week": 2,
   "year": 2022,
-  "member": "Yannick",
-  "url": "https://www.youtube.com/watch?v=qYG2Jn3gMjc",
-  "description": "How to use VS Code on iPad (Step by Step Instructions with Raspberry Pi) - Youtube",
-  "avatar": "https://cdn.carredartistes.com/products_images/prod_124264/e_36-x-36-cm-carre-d-artistes-f4-front-0.jpg",
-  "favorite": 75,
+  "member": "Anouchka",
+  "url": "https://www.developpez.com/actu/330123/-Il-est-difficile-pour-une-personne-moyenne-de-concevoir-a-quel-point-les-NFT-sont-inutiles-selon-Holden-Shearer-un-concepteur-de-jeux-video/",
+  "description": "« Il est difficile pour une personne moyenne de concevoir à quel point les NFT sont inutiles »",
+  "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
+  "favorite": 22,
   "tags": [
-    "youtube",
-    "vidéo",
-    "tutorial",
-    "vsc",
-    "visual code studio",
-    "raspberry pi",
-    "microsoft",
-    "ipad",
-    "ipados",
-    "apple"
+    "nft",
+    "cryptomonnaie"
   ]
 }

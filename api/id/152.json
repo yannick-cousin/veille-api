@@ -2,14 +2,12 @@
   "id": 152,
   "week": 2,
   "year": 2022,
-  "member": "Yorgan",
-  "url": "https://docs.pmnd.rs/react-three-fiber/getting-started/introduction",
-  "description": " React Three Fiber Documentation",
-  "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
-  "favorite": 10,
+  "member": "Léo",
+  "url": "https://alexsoyes.com/blog/",
+  "description": "Blog d'un développeur web freelance – Alex so yes",
+  "avatar": "https://github.com/leopinchon.png?size=300",
+  "favorite": 12,
   "tags": [
-    "js",
-    "javascript",
-    "React"
+    "blog"
   ]
 }

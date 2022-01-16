@@ -2,13 +2,13 @@
   "id": 145,
   "week": 2,
   "year": 2022,
-  "member": "Jean-François",
-  "url": "https://www.tech2tech.fr/pourquoi-et-comment-faire-sa-veille-informatique-technologique/",
-  "description": "Pourquoi et comment faire sa veille informatique / technologique ?",
-  "avatar": "https://github.com/GratadeJF.png?size=300",
-  "favorite": 10,
+  "member": "Milhan",
+  "url": "https://www.blogdumoderateur.com/bitburner-jeu-gratuit-apprendre-coder-javascript/",
+  "description": "Bitburner, un jeu gratuit pour apprendre à coder en JavaScript",
+  "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
+  "favorite": 65,
   "tags": [
-    "veille",
-    "tutorial"
+    "js",
+    "javascript"
   ]
 }

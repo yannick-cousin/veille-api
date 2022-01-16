@@ -2,14 +2,18 @@
   "id": 154,
   "week": 2,
   "year": 2022,
-  "member": "Jules",
-  "url": "https://threejs.org/",
-  "description": "Three.js – JavaScript 3D Library",
-  "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
-  "favorite": 10,
+  "member": "Yannick",
+  "url": "https://www.youtube.com/watch?v=qYG2Jn3gMjc",
+  "description": "How to use VS Code on iPad (Step by Step Instructions with raspberry Pi)",
+  "avatar": "https://cdn.carredartistes.com/products_images/prod_124264/e_36-x-36-cm-carre-d-artistes-f4-front-0.jpg",
+  "favorite": 450,
   "tags": [
-    "js",
-    "javascript",
-    "3d"
+    "ipad",
+    "apple",
+    "VS Code",
+    "raspberry pi",
+    "vidéo",
+    "tutorial",
+    "youtube"
   ]
 }
