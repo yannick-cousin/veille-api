@@ -1473,7 +1473,7 @@
     "favorite": 36,
     "tags": ["facebook", "pixel", "espion"]
 },
-{
+  {
     "id": 134,
     "week": 2,
     "year": 2022,
@@ -1483,8 +1483,8 @@
     "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
     "favorite": 54,
     "tags": ["mozilla", "facebook", "pixel", "espion"]
-},
-{
+  },
+  {
     "id": 135,
     "week": 2,
     "year": 2022,
@@ -1494,8 +1494,8 @@
     "avatar": "https://avatars.githubusercontent.com/u/94181724?s=300&v=4",
     "favorite": 22,
     "tags": ["nft", "cryptomonnaie"]
-},
-{
+  },
+  {
     "id": 136,
     "week": 2,
     "year": 2022,
@@ -1505,8 +1505,8 @@
     "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
     "favorite": 22,
     "tags": ["australie", "troll", "anonymat"]
-},
-{
+  },
+  {
     "id": 137,
     "week": 2,
     "year": 2022,
@@ -1516,8 +1516,8 @@
     "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
     "favorite": 23,
     "tags": ["JS", "javascript", "WebGL"]
-},
-{
+  },
+  {
     "id": 138,
     "week": 2,
     "year": 2022,
@@ -1527,8 +1527,8 @@
     "avatar": "https://www.gravatar.com/avatar/43495?d=robohash&s=300",
     "favorite": 24,
     "tags": ["JS", "javascript", "react", "WebGL"]
-},
-{
+  },
+  {
     "id": 139,
     "week": 2,
     "year": 2022,
@@ -1538,8 +1538,8 @@
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/vPMglsZ3ZOuX3PgNt3hdMDUBFe8L8pMg.jpg",
     "favorite": 35,
     "tags": ["react", "apprentisage"]
-},
-{
+  },
+  {
     "id": 140,
     "week": 2,
     "year": 2022,
@@ -1549,8 +1549,8 @@
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/vPMglsZ3ZOuX3PgNt3hdMDUBFe8L8pMg.jpg",
     "favorite": 35,
     "tags": ["react", "youtube", "vidéo", "tutorial"]
-},
-{
+  },
+  {
     "id": 141,
     "week": 2,
     "year": 2022,
@@ -1560,8 +1560,8 @@
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/7OG1AB4d7xyQSmDJHuAxLyliQtzlqHb6.png",
     "favorite": 45,
     "tags": ["UI"]
-},
-{
+  },
+  {
     "id": 142,
     "week": 2,
     "year": 2022,
@@ -1571,8 +1571,8 @@
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/PVfhQLMVOrmJrJYi6dvMUIE775V00sIu.png",
     "favorite": 35,
     "tags": ["youtube", "vidéo"]
-},
-{
+  },
+  {
     "id": 143,
     "week": 2,
     "year": 2022,
@@ -1582,8 +1582,8 @@
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/9bQ5xapUVykSOizut8h3FnkwnxvCu3Kg.png",
     "favorite": 45,
     "tags": ["linkedin"]
-},
-{
+  },
+  {
     "id": 144,
     "week": 2,
     "year": 2022,
@@ -1593,8 +1593,8 @@
     "avatar": "https://github.com/MunschThomas.png?size=300",
     "favorite": 125,
     "tags": ["cpu", "minecraft", "youtube", "vidéo"]
-},
-{
+  },
+  {
     "id": 145,
     "week": 2,
     "year": 2022,
@@ -1604,8 +1604,8 @@
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
     "favorite": 65,
     "tags": ["js", "javascript"]
-},
-{
+  },
+  {
     "id": 146,
     "week": 2,
     "year": 2022,
@@ -1615,8 +1615,8 @@
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/dX2lSK4PODSrjLvtTeABXMlQY3S2WL6e.png",
     "favorite": 22,
     "tags": ["popcorn time", "streaming"]
-},
-{
+  },
+  {
     "id": 147,
     "week": 2,
     "year": 2022,
@@ -1626,8 +1626,8 @@
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
     "favorite": 45,
     "tags": ["sony", "vr"]
-},
-{
+  },
+  {
     "id": 148,
     "week": 2,
     "year": 2022,
@@ -1637,8 +1637,8 @@
     "avatar": "https://storage.googleapis.com/quest_editor_uploads/7zpz2rnexfGZShq7uNN8huAXaaafnDco.png",
     "favorite": 65,
     "tags": ["css", "vidéo", "background"]
-},
-{
+  },
+  {
     "id": 149,
     "week": 2,
     "year": 2022,
@@ -1648,8 +1648,8 @@
     "avatar": "https://github.com/GratadeJF.png?size=300",
     "favorite": 45,
     "tags": ["veille"]
-},
-{
+  },
+  {
     "id": 150,
     "week": 2,
     "year": 2022,
@@ -1659,8 +1659,8 @@
     "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
     "favorite": 4,
     "tags": ["astéroide", "nasa"]
-},
-{
+  },
+  {
     "id": 151,
     "week": 2,
     "year": 2022,
@@ -1670,8 +1670,8 @@
     "avatar": "https://www.gravatar.com/avatar/43975?d=robohash&s=300",
     "favorite": 78,
     "tags": ["js", "javasacript", "3d"]
-},
-{
+  },
+  {
     "id": 152,
     "week": 2,
     "year": 2022,
@@ -1681,8 +1681,8 @@
     "avatar": "https://github.com/leopinchon.png?size=300",
     "favorite": 12,
     "tags": ["blog"]
-},
-{
+  },
+  {
     "id": 153,
     "week": 2,
     "year": 2022,
@@ -1692,8 +1692,8 @@
     "avatar": "https://github.com/Benedct-Laurain.png?size=300",
     "favorite": 1,
     "tags": ["html"]
-},
-{
+  },
+  {
     "id": 154,
     "week": 2,
     "year": 2022,
@@ -1703,8 +1703,8 @@
     "avatar": "https://cdn.carredartistes.com/products_images/prod_124264/e_36-x-36-cm-carre-d-artistes-f4-front-0.jpg",
     "favorite": 450,
     "tags": ["ipad", "apple", "VS Code", "raspberry pi", "vidéo", "tutorial", "youtube"]
-},
-{
+  },
+  {
     "id": 155,
     "week": 2,
     "year": 2022,
@@ -1714,8 +1714,8 @@
     "avatar": "https://cdn.carredartistes.com/products_images/prod_124264/e_36-x-36-cm-carre-d-artistes-f4-front-0.jpg",
     "favorite": 45,
     "tags": ["windows 11", "microsoft"]
-},
-{
+  },
+  {
     "id": 156,
     "week": 2,
     "year": 2022,
@@ -1725,8 +1725,8 @@
     "avatar": "https://www.gravatar.com/avatar/25706?d=robohash&s=300",
     "favorite": 25,
     "tags": ["pirates", "hacking", "vidéo"]
-},
-{
+  },
+  {
     "id": 157,
     "week": 2,
     "year": 2022,
